@@ -33,7 +33,9 @@ load_dotenv()
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Get the base directory for saving the downloaded files
-base_dir = os.path.join(script_dir, os.environ["DOWNLOAD_CHARTS_PATH"])
+# base_dir = os.path.join(script_dir, os.environ["DOWNLOAD_CHARTS_PATH"])
+
+base_dir = os.path.join(script_dir, "data", "raw")
 
 # Selecting dates of interest
 with open('reference_dates.json', 'r') as file:
@@ -51,10 +53,10 @@ driver_path = os.path.join(script_dir, os.environ["CHROME_DRIVER_PATH"])
 service = Service(executable_path=driver_path)
 
 options = webdriver.ChromeOptions()
+options.add_argument('--headless')
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 options.add_experimental_option('prefs', {'download.default_directory' : base_dir})
-options.add_argument('--headless')
 
 i = 0 
 
