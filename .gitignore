@@ -3,3 +3,5 @@ tests/
 Instrucoes.md
 plano.md
 teste.ipynb
+webdriver/
+config.json
