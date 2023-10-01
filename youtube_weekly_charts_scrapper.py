@@ -24,18 +24,21 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from dotenv import load_dotenv
 from datetime import datetime
+from google.cloud import storage
 
 execution_start = time.time()
 
 load_dotenv()
 
-# Get the script's absolute directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Get the base directory for saving the downloaded files
-# base_dir = os.path.join(script_dir, os.environ["DOWNLOAD_CHARTS_PATH"])
+base_dir = os.path.normpath(os.path.join(script_dir, os.environ["DOWNLOAD_CHARTS_PATH"]))
 
-base_dir = os.path.join(script_dir, "data", "raw")
+print("Script directory:", script_dir)
+print("Base directory:", base_dir)
+
+# base_dir = os.path.join(script_dir, "data", "raw")
 
 # Selecting dates of interest
 with open('reference_dates.json', 'r') as file:
@@ -82,6 +85,14 @@ for url, start, end in url_date_pairs:
     df.to_csv(charts_path)
     i+=1
     driver.quit()
+
+storage_client = storage.Client()
+bucket = storage_client.bucket('yt-charts-raw')
+
+for file_name in os.listdir(base_dir):
+    if file_name.endswith('.csv'):
+        blob = bucket.blob(file_name)
+        blob.upload_from_filename(os.path.join(base_dir, file_name))
 
 execution_end = time.time()
 elapsed_time = execution_end - execution_start
