@@ -10,6 +10,5 @@ spotify_functions.py
 youtube_functions.py
 config.json
 config_loader.py
-relatorio.md
 wrangling_experimentation.ipynb
 wrangling_notebook.ipynb
