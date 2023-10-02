@@ -12,3 +12,4 @@ config.json
 config_loader.py
 relatorio.md
 wrangling_experimentation.ipynb
+wrangling_notebook.ipynb

@@ -1,0 +1,539 @@
+,main_artist,dim_artist_id,artist_id_spotify,genres
+0,Xamã,78ce7195e7bcca44e6934d5d5735fb04,5YwzDz4RJfTiMHS4tdR5Lf,"['brazilian hip hop', 'trap brasileiro']"
+1,Paulo Pires,84c919f21baf69a0d5c3cdb8fdc2a428,3whgFbrRxsOmYVrq3t4hCY,"['arrocha', 'arrochadeira', 'piseiro']"
+2,MC Danny & Zé Felipe,74dbeed69a2464bf99ebac9ad0a69f2b,3PZTvUS5fUUhV3EKAjqdZk,['rave funk']
+3,Tierry,390562e35c3cc4fa80f7bf5fbef01598,4FUMTycjZlEY6ZxMgqNjC8,"['arrocha', 'sertanejo universitario']"
+4,Marcynho Sensação,79d2867f969c32bb690e0dd32c652884,4dnPDc045bVjibyATxVUOs,"['arrocha', 'forro']"
+5,Marília Mendonça & Maiara & Maraisa,688dfda183f0c76eba7eeb30d67b64fc,1yR65psqiazQpeM79CcGh8,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+6,George Henrique & Rodrigo & Marília Mendonça,4a3be88b89a6ede39adfe89998b1c2e4,3FlCKtwOEYQQYyGVEbxG2Z,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+7,Tayrone & Marília Mendonça,fd12100c713db67a5057695ae381dfe0,2T1se5h5FRkw7ZfR7yxdlm,"['arrocha', 'forro']"
+8,Dj Matt D & Menor MC,0559482d8f430b85d9eb71f62babc032,1rIc4yTieeRq25NA3T8RQ5,['funk consciente']
+9,PEDRO SAMPAIO,cb6ae991e6b4ac09c3b9bc9194d62895,5wbf52LA6kcaboHSN6NEF1,"['funk carioca', 'funk rj']"
+10,Anitta & PEDRO SAMPAIO,a8a5a113aa926c8b33c4df2b18567b98,7FNnA9vBm6EKceENgCGRMb,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']"
+11,Ávine Vinny & Matheus Fernandes,64d5d9a26a325f92565427b9cb71db0f,37mqXU98U5GmH5ZDtlHM1c,"['arrocha', 'forro']"
+12,Matheus Fernandes & Dilsinho,15bf2e5dc9dd3bf34116773a874b3fd4,37mqXU98U5GmH5ZDtlHM1c,"['arrocha', 'forro']"
+13,Mc Poze do Rodo,07c62000cd08d7eef6f492bfdde748bf,28ie4NNTa2VW2QV4Zray8M,['funk carioca']
+14,Di Paullo & Paulino,a8a1d3473365a2ce00b178f97a1e5d73,1e5A3rWcqk9WfLjeg5T3dI,"['sertanejo', 'sertanejo tradicional', 'sertanejo universitario']"
+15,Distrito 23,30feeaee0cd3f5fcf592fdca8e295b12,5itNRAG8DPcD6Yrm1rFPLv,['trap brasileiro']
+16,Zé Felipe & Marcynho Sensação,1a0ab1b06d7b77ef8726beb06242003f,7cmuxPnXRJxwuYDHfbD8Eu,"['agronejo', 'arrocha', 'arrochadeira', 'sertanejo', 'sertanejo universitario']"
+17,Gusttavo Lima,08f4ccbcdb3802e2591d7f8f6ddd1f12,7MiDcPa6UiV3In7lIM71IN,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+18,Gloria Groove,344a5aa3f014f015a580c6f2a2df710b,7rXMvXRnWHaSwnVvPeUUfw,"['funk carioca', 'pop lgbtq+ brasileira']"
+19,Tarcísio do Acordeon,3438008beda9474c302107862ff032ef,48HORs6F9P7IgdyKrk4MZC,"['arrocha', 'forro']"
+20,MC LEVIN,1811e6019816e851065b10dc7068a287,0guw2RGoUqaWKpoCY5DzWY,"['funk carioca', 'funk mtg']"
+21,João Gomes & Vitor Fernandes,a81c091370d394384632c870b12f912a,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+22,Matuê & L7NNON,acd8a84ff5f20ed84c962d8e6ca79795,5nP8x4uEFjAAmDzwOEc9b8,"['r&b brasileiro', 'rap cearense', 'trap brasileiro']"
+23,Henrique & Juliano,7a0c2e34114d28c3c0703d6c0f591acf,3p7PcrEHaaKLJnPUGOtRlT,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+24,DJ BOY,c74dc0e555529590f5a83fd45f8a8aa6,5ncITNKBT3RMa1U2NsuE7V,['funk consciente']
+25,Os Barões Da Pisadinha,364fa5ffeb4f67aa1db2a3d2b8487ae4,5Lv2GUVwqmQBPwrTrxucE5,"['agronejo', 'arrocha', 'forro', 'piseiro', 'sertanejo universitario']"
+26,Brisa Star,488e00b6f40a99d2801d586069b041fc,7fKfVo62Yx50GtTdIgeBqk,"['arrocha', 'forro']"
+27,Brisa Star & Zé Vaqueiro,66d67e627713f7058cd43edfee93a5e7,7fKfVo62Yx50GtTdIgeBqk,"['arrocha', 'forro']"
+28,Zé Felipe & Os Barões Da Pisadinha,86d9aacf0507e27e65f40c2df0334396,5Lv2GUVwqmQBPwrTrxucE5,"['agronejo', 'arrocha', 'forro', 'piseiro', 'sertanejo universitario']"
+29,Mc Davi,5aa5f1773cfc14392acafabd7bf33545,1cYhx7ZOhYoVmnDPb9KMwo,"['funk carioca', 'funk mtg', 'funk paulista']"
+30,Felipe Amorim,61e7af31b12a9c46d149393dd3ffa88b,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+31,Dj Guuga & DJ Ivis,937698318618addf0402ca379460a81b,2tqbdiza6tmlpAtKUZwhnE,['phonk brasileiro']
+32,POCAH,53fee57437317ef95292513b44abb9c2,11iQCRz636WFdHj42qxAF6,"['funk carioca', 'funk rj', 'pagode baiano', 'pop lgbtq+ brasileira']"
+33,Marília Mendonça,3da163afe978a29fb5ba303b0079b80b,1yR65psqiazQpeM79CcGh8,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+34,Priscila Senna,567fae4c550954dc3f298f37de559aef,44F6hbmusaHQR96WFbo6Lv,"['arrocha', 'brega romantico', 'forro', 'forro de favela']"
+35,Zé Neto & Cristiano,89e9cac3f41d2092e25d9c9da0fbd3eb,487N2T9nIPEHrlTZLL3SQs,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+36,MC Kelvinho,d34dc2104e544e111cdbd63028653ecb,1S4ASTDQvMwm6jP95pIsYB,"['funk consciente', 'funk ostentacao', 'funk paulista']"
+37,MC Joãozinho VT,6711ac8a87bf94343f65eb1d6e4eacd3,6XFc29m1ptfUNmaa1UTuBT,['funk paulista']
+38,MC Don Juan,d4c1f5472957091e5b921acdb68d41df,7Lmrb6KcIzfkmgbtokjsAL,"['arrocha', 'batidao romantico', 'funk carioca', 'funk mtg', 'funk paulista']"
+39,Imagine Dragons,84bb4ff9bfc07c6611685fcc513eb6b4,53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'pop', 'rock']"
+40,MD Chefe & OFFLEI SOUNDS,4cd9f94cd1d2a4bea3a32e6b62f0e44d,68PYmgkbRP1qZnEWOry7sB,"['funk carioca', 'trap brasileiro']"
+41,MC Cabelinho,41b6d2a5d084acb00c62b8029cfe3b57,1WQBwwssN6r8DSjUlkyUGW,"['funk consciente', 'trap brasileiro', 'trap funk']"
+42,Taty Pink & Romeu,a9ecd136ccbe4be87b647b40354e1361,0zp4Tuw2qRqrPTZyBkk8pS,['arrocha']
+43,MC Paulin da Capital,c4ad0bcc800587d14f4da14596576df5,592JnViQ2tot63c1SbtgK2,"['funk consciente', 'funk paulista']"
+44,Japãozin,f2b4b16f97346d46a65add339239b1d8,7bDY7ck0pXuKESZtEt1X5d,"['forro', 'lambadao', 'piseiro']"
+45,Kaio Viana & MC CJ,973a5aaa5c48fe26b35587c8c6eb26de,2XGuDrQEuJXo3FfBQMeUn4,['speed up brasileiro']
+46,MC Lipi ,f16decbcdc63c366e1971cc6c72c17b2,0cjkWe9VXcECGiOEHFuTfc,"['funk consciente', 'funk paulista']"
+47,Jessé Aguiar,d64e2c0491160b92dfd2a1d0db198792,0g4xsygciHCrujQzdXUudC,['brazilian gospel']
+48,Hungria Hip-Hop & MC Ryan SP,1492de87aa9bda4aca090ab1bfd0b490,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+49,Melody,ce2f3a5579d231b3b8f8b9e5fc46d361,1we36odvLMnv4ESemMwWs7,
+50,dj eduardo da favela do pó & MC Menor MT,52719da9b8bf1d0a046acf2711d0fd3c,0ivrHNM8urVaCkgRX8rtKH,['phonk brasileiro']
+51,Dj Guuga,1588ab7a98116cab702c5009658fb93c,1cNPXWhKfjI0fT5EMCnamR,"['arrocha', 'arrochadeira', 'funk paulista', 'rave funk']"
+52,Vitor Fernandes,6519d13287753ab5602f90f69a46e0fa,3TJGVUkSJzk5ZPixMFczZX,"['arrocha', 'forro']"
+53,Luísa Sonza & Mariah Angeliq ,0bc55c86e8f171d52e69a564dc48b9c9,0KKUc4amZyvswV2YL6WTar,"['rap latina', 'trap latino', 'urbano latino']"
+54,Mc Anjim,8c9d9e2d4dc53b94e3e02b2de9a898c4,0DjQFfVxBipTFTXRCwImMP,"['funk bh', 'funk mtg', 'funk viral', 'rap mineiro']"
+55,Murilo Huff & Jorge,762fffa63cabfb89c053f1ee984b6dfb,3hq7WoPJsrRP0KMSLhUgRz,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+56,Wesley Safadão,222604e6172dcf838e28cde2dde719b9,1AL2GKpmRrKXkYIcASuRFa,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']"
+57,DJ Jeeh FDC,ba3367cdb8eb7f7a2b676e1047699188,5lal0BjsooQ7ON4t7B73bp,['funk mtg']
+58,Jorge & Mateus,9b0ef1f71a4f022fa7484183cdafc573,1elUiq4X7pxej6FRlrEzjM,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+59,Dj LK da Escócia,ade1160380a0c146d7a7ab59c0632f6a,6WIjKbyqeO9MkfNMFJsF50,['funk rj']
+60,Ludmilla & Gloria Groove,900cf9668a5eb0441176560bbe8097d1,0sZAFQhjMyOCrYmzZhuffk,
+61,Costa Gold & MC Ryan SP,dcb8f149926b7204f0356156a48814c1,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+62,CKay,19cf40ce2a7c55d15a7ddc825bd999c7,048LktY5zMnakWq7PTtFrz,"['afro r&b', 'afrobeats']"
+63,DJ Patrick Muniz,83eaed428a8ef5625777df34dd224c94,2MUXvv3lFulPYMUCtNrEBu,"['deboxe', 'funk mandelao', 'funk mtg', 'funk viral']"
+64,Dan Ventura,a3c1cebbea3f9c99c0fd0e5f45be5330,5am6JZ05n3QyqYMyD9CgSn,"['arrocha', 'forro']"
+65,Felipe Cardoso DJ & Mc Fopi,cad2e2b6b75ea3d3dbf477629fead639,0MkyYYm0OKY2rZohgy750o,
+66,Gusttavo Lima & Dendelzinho,f08449e691cbe4817a6152abba9d5fc4,7MiDcPa6UiV3In7lIM71IN,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+67,DJ VILÃO & MC Scar,7d263309e82a455256f0f2c0f50f37ef,1yTrrABG9Vr2Y9lbHupN3f,"['funk mtg', 'phonk brasileiro']"
+68,Raça Negra,1942fe71fb6c2e7d2ffd4ee85e7b48d5,1RnHJ07H3jcpay9PrUPjnt,"['pagode', 'sertanejo', 'sertanejo universitario']"
+69,MC Ryan SP,3493d5adb4c07e3e44a1b83833bd2659,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+70,Teto,376a5e755ecc19a252ae9c156293fb1d,68YeXpLt3jB7JHQS5ZjMGo,"['trap baiano', 'trap brasileiro']"
+71,Bárbara Labres & Dan Ventura,8c5b3b6c8a711a025704d3bb31128463,2UocIcNiHj5n4tj1CnBzRq,"['classic soul', 'doo-wop', 'motown', 'rhythm and blues']"
+72,MC Danone & --,4ab7d4f03a38b46996fe0ade07886580,5AkhuEE9FYontxsHqqmtNQ,['funk bh']
+73,LISA,4b3f3945e087a0dd32f56c3603b7d153,0blbVefuxOGltDBa00dspv,"['anime', 'anime rock', 'j-pixie', 'j-pop']"
+74,João Gomes,80382f03ad716d2ae5d3126669a615da,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+75,Adele,a5c59c0315098e6d67bb57610f7fb9b1,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'pop soul', 'uk pop']"
+76,Rod Stewart,d87a92694e6e951296bd88ab635d3451,2y8Jo9CKhJvtfeKOsYzRdT,"['mellow gold', 'soft rock']"
+77,Dj GM,0dd0493f7fbc4cea5368b8261417e88d,03PnQHlbH5nDDVX3hNg628,['funk consciente']
+78,Marina Sena,9357e4f80714ab4484f486352106dd8a,0nFdWpwl7h6fp3ADRyG14L,['pop lgbtq+ brasileira']
+79,Danilo Chatinho & Mc Laranjinha,3b0838369d6a80d067399024e4b268b5,1JJq541frMPfUIQiUoVrnp,"['funk bh', 'funk consciente', 'funk mtg']"
+80,Pineapple StormTV,1919948eb0dd377d6ffec0281a28aa63,09U6hmCerKcIJrixubiBjm,"['rap baiano', 'trap baiano']"
+81,GAYLE,696d7d25ce8eccca5c2489d3a2f51240,2VSHKHBTiXWplO8lxcnUC9,['modern alternative pop']
+82,Hugo & Guilherme & Marília Mendonça,fa9e635575e7d73aa7b2f2750658304f,1LIuN7ov1IBQDdLsU83ojl,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+83,Chefin & Mainstreet,947bff90e0e866828a8d0f7ad2a3a1e0,25XJqeReVV38w0tR04GGBd,"['trap carioca', 'trap funk']"
+84,Simone & Simaria & Zé Felipe,5ed479046b6132c075d5d771955014b1,0MInKJqZscEeNc5K3K0mkE,"['pop nacional', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+85,Rebecca,65ed72f435ddd53cb3efb0b018ce2af4,6Pd7FRVtwNxFsQIkDMpLGz,
+86,Dj menor do sb,4a208aa85136894cf2b87b356beb1783,6VNVFpJ637EW39ZgUI6JWt,['funk rj']
+87,Jão,97a5e863541dc797bbdda9c843eff1fd,59FrDXDVJz0EKqYg39dnT2,['pop nacional']
+88,Mc Josh,d0e79b8caff747945e34eba98aedfff9,2sJi2UQrxTzhekQYGLxvT6,"['funk bh', 'funk mtg']"
+89,Alok,eff45f74e46238d5ee458196effec864,0NGAZxHanS9e0iNHpR8f2W,"['electro house', 'pop nacional', 'sertanejo universitario', 'slap house']"
+90,Murilo Huff,4a523d801e1c44b8de8a2f8527f2450d,3hq7WoPJsrRP0KMSLhUgRz,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+91,PEDRO SAMPAIO & Luísa Sonza,560b4ea7b95e465b3668ef9ee3353c84,5wbf52LA6kcaboHSN6NEF1,"['funk carioca', 'funk rj']"
+92,Guga Divulga,20623d60cee18ac80d9f3f79d524d257,7544SbhjpkivsclUPtG1ej,
+93,Tayrone,c46564d71f1bf6e70470880a3a901872,2T1se5h5FRkw7ZfR7yxdlm,"['arrocha', 'forro']"
+94,MC Hariel,a4c30aac7c3b1df98d4aae96d559f3d5,0pcoadNMmvrUyab1RxWBoV,"['funk carioca', 'funk consciente', 'funk paulista']"
+95,DJ BRUNIN DA NT & MC Topre,f2581ea5176bf55b849b77c6da614df2,6MSMZkBlZT4vhQmjO5Ynv3,['funk mtg']
+96,Israel & Rodolffo,32ceeef91e5af7c159682fd8216cf8cd,41QLxRXlc2NwfJZkHGHKid,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+97,L7NNON & Ajaxx,771bb37b6d42592c722ec07216217985,0OO1zgX3CUfJQwoOEBSKSp,['chill beats']
+98,Oruam & Zack Vox,a43322b45cbe818234cf3fa6526d8229,1UH80jhsYsFztK0anu2FNS,"['chill abstract hip hop', 'indie hip hop', 'meme rap', 'social media pop']"
+99,Mc Bruninho da Praia,d2781b04e6470a8d026d945063ef68b8,7579yDSrhA6ZAArOo7m6UT,['funk ostentacao']
+100,BoyWithUke,b11012711c82b1235de0cdd687133f4e,1Cd373x8qzC7SNUg5IToqp,['sad rap']
+101,Marcynho Sensação & DJ Ivis,d899b7868bd75731db2b13544acf65c0,4dnPDc045bVjibyATxVUOs,"['arrocha', 'forro']"
+102,Zé Felipe,54eb1d65349b7f58d6106b87a046bc80,7cmuxPnXRJxwuYDHfbD8Eu,"['agronejo', 'arrocha', 'arrochadeira', 'sertanejo', 'sertanejo universitario']"
+103,Anitta,16e3d6059dd628194e23fe6bc2d50e28,7FNnA9vBm6EKceENgCGRMb,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']"
+104,Ludmilla,c58fb720dc456e0ef76f15e23e356ad5,3CDoRporvSjdzTrm99a3gi,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']"
+105,Simone & Simaria,3c61b186de463430372fc866ff37b55f,0MInKJqZscEeNc5K3K0mkE,"['pop nacional', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+106,Ludmila Ferber,78f07d6c202a62f4ef696b79079a9ab9,3XFPsySK5XlfmcxJGWcyWn,"['adoracao', 'brazilian gospel']"
+107,MC Kapela,bf8620de7b6e2bf92d78aea5c3004898,2MKq3nQOfCRUwxtmmAOpqR,"['funk mtg', 'funk ostentacao', 'funk paulista']"
+108,Gabriela Rocha,bfcf85b9492b9645d90ffdfe4c00dd51,4fdCGYM7dtJLa3LvR1ccto,"['adoracao', 'brazilian gospel']"
+109,Sia,e7a32095be1f9eae17dd3f3362b39689,5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'pop']"
+110,MC Rogerinho,ac618359ba2c01d48585f30a84b20eb3,5JbQpbeFaKfuZVFzKwaawP,"['arrocha', 'batidao romantico']"
+111,Luan Santana,ecab9d8e82878f56505befeabbd6e592,3qvcCP2J0fWi0m0uQDUf6r,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+112,Lucas Lucco & Marília Mendonça,93a3c70bd8d234a5b047d87ece7a6747,06cd30Cv9US973Ika84gDw,"['funk carioca', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+113,Juliana Bonde,55327790d377b33961e6aad9b32631c1,4fK0iR3gAFqqdEiBrga5td,
+114,Luísa Sonza & Ludmilla,92325b4119dc0893985aa3f06992508f,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+115,Mari Fernandez & Felipe Amorim,0e0a447617f955768681b72b32e5efee,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+116,Borges & Mainstreet,a630bb97bb21e1412bd49364e5f0c672,6jBww4kwlSrjaNYP7AQPtX,"['trap brasileiro', 'trap carioca']"
+117,MC Braz & MC Gabluca,1407e9f7293fc5bd8dcf29c0c5ab5847,7htxZTR76qcXYJylEmkLiJ,"['funk bh', 'funk mtg']"
+118,Furacão Hit,0e9a9150415fa9b5ce7fa9c6c9eb394a,2p5DEEpHgoW3OlsmBkSBXF,
+119,PEDRO SAMPAIO & MC Pedrinho,37378b9924dfc797a28cbd9d7f630f95,5wbf52LA6kcaboHSN6NEF1,"['funk carioca', 'funk rj']"
+120,Vitor Fernandes & João Gomes,86c3bceda12f34da467311a00f865579,3TJGVUkSJzk5ZPixMFczZX,"['arrocha', 'forro']"
+121,Mc Reino,8ded46a9fec6430cf6f1a2a81de4cc38,5VYxsvivVgcLrPjgLUFRG1,"['brega funk', 'funk rj']"
+122,DJ TK,543f6c4ae8d2f96a235690d3f181dc66,0mfeoleda752Uj4JbEZDIN,"['deboxe', 'funk mtg', 'funk viral']"
+123,Diego & Victor Hugo,ebf04d8da8f2d324ae81f0834e1f8129,3k68C6mNMJL6OaAdWeW2ZF,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+124,João Gomes & Tarcísio do Acordeon,d472588e85efe1ad9a2c08adcb391b2a,48HORs6F9P7IgdyKrk4MZC,"['arrocha', 'forro']"
+125,Mc Gabzin & DJ Swat,ac3106e1120661043a81297eab3af6e4,0f1IECbrVV952unZkzrsg2,"['funk carioca', 'funk mtg', 'funk ostentacao', 'funk paulista', 'funk rj']"
+126,IZA,2946d65a67894c724f2bfba2c388f70c,7mJfqlklKtA6sHkavWth09,"['dream plugg', 'plugg', 'pluggnb']"
+127,La Gaita,9c00293b480c5db4a80f2568f17e2611,29PgYEggDV3cDP9QYTogwv,['movie tunes']
+128,Vulgo FK,c05c5e52cf0746bda528720480f56f71,27azwwkxutWL1BWMkgNIh0,['trap brasileiro']
+129,Zé Vaqueiro,17eb6bb45e79c4d1e815e7e5cc425555,5K8Rmjmf4RZFffz94EmBRt,"['arrocha', 'forro', 'forro de favela']"
+130,Jessica Darrow,66b2537e3dc2925a6508bcab2db07475,4vdAAzZBUKbsrvHi6UR7B7,['movie tunes']
+131,--,cfab1ba8c67c7c838db98d666f02a132,4roHK6ehC96AzaEkLkqxDK,
+132,Sing King,b036f14d9a7322d4012caeafa4a20f1b,0FaGQhzs7L0uIuUdjolB1n,['kindermusik']
+133,Amado Batista & Kell Smith,1bc9d42ff9c764f0607a3fa1587a474d,5mQMEwn8ExRnlxpp3L0gHn,"['brega', 'brega saudade', 'sertanejo', 'sertanejo tradicional']"
+134,MC Hariel & MC Pedrinho,1b28425669e48af373d6e810c8cca72b,0pcoadNMmvrUyab1RxWBoV,"['funk carioca', 'funk consciente', 'funk paulista']"
+135,Calcinha Preta,9aa7b46c77b50c9b8188d491a0d136cd,6Kps94g1Npexh3LrinIOvC,"['axe', 'forro', 'sertanejo', 'sertanejo universitario', 'tecnobrega']"
+136,Hungria Hip-Hop,aba1bb917923d51a2a4c8c14914da0a3,0vLuOi2k62sHujIfplInlK,"['brazilian hip hop', 'rap df']"
+137,Bielzin,9e16f326d706ae4d9e4382b342257909,2vWGxqWbGgmgxVDZ5CBvBP,['trap brasileiro']
+138,Gaab & Mc Davi,84f8e062aeb2f5c6535858ae75077ae2,3TGeuw7OmACouH5JAKkX7I,"['mexican hip hop', 'trap mexicano']"
+139,Chefin Oficial,1b45f57cb83a5ab4933f4528257204da,68PYmgkbRP1qZnEWOry7sB,"['funk carioca', 'trap brasileiro']"
+140,Davi Kneip,1c48375977df2000f5da808168814140,6rygauyIMQJrXRC4e5rQJP,"['agronejo', 'funk bh', 'funk consciente', 'funk mtg']"
+141,Matheus & Kauan,9f872e8dcdceae7e5698eeedf9ab2b90,2Z0lRIqr997lIUiPtrpKCr,"['agronejo', 'arrocha', 'pop nacional', 'sertanejo', 'sertanejo universitario']"
+142,MC Danny & A Turma da Bregadeira,e5ad8c981969f81fc0af7c9ff6ed4369,3PZTvUS5fUUhV3EKAjqdZk,['rave funk']
+143,Naiara Azevedo & Marília Mendonça,59cafb7311569a2856fd7163e5d17f1b,0jD7VeE1m2SdHbOWeCtB9l,"['funk carioca', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+144,Mc Paiva ZS,42f9aee26ef63cb4c3753edec895217e,0gHj4MPwwcZ8Zl9CY0hqT5,"['funk carioca', 'funk rj']"
+145,MC Neguinho do Kaxeta,13f1b290c6cc769ad4d9f4ee2c9249c3,27mVhYvJa7apj1zCoZ9TF2,"['funk carioca', 'funk consciente', 'funk ostentacao', 'funk paulista']"
+146,MC Lele JP,658a75313d15844f573b2adffcf0a2a0,1mV9h1AwhRXSjBFcYpajgY,['funk paulista']
+147,Filipe Ret,7d47629da41a92e418b11bd40faa4ebf,7gJN8W0589FisSYJS17K54,['pop rap brasileiro']
+148,MC WM & MC Lan,8118bd19576226e340619bb38b6f2918,4mb1xtQVGSK5dh8AbtwBiR,"['funk carioca', 'funk ostentacao']"
+149,The Neighbourhood,8ca80b163a5dffc4b0882b4e24ad7078,77SW9BnxLY8rJ0RciFqkHh,"['modern alternative rock', 'modern rock', 'pop']"
+150,Camila Cabello,4cda7705a48cb4ac820e958e95eec271,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop']"
+151,Oldilla,6b7c6c9b55f8ab64211a53aff1cee7dc,6sW5k31iA8sTy0i2goUKF9,['funk consciente']
+152,Amanda Wanessa,3b2e1f88bb08170622c579fec0ff80f2,4kvOhoqtLM66VLWfcUv4Hm,['brazilian gospel']
+153,Hungria Hip-Hop & MC Lipi ,fd4d3fcb775231daba2b9c0e42b8278c,0ec8S8fFaIBKnKTTGcEZon,['phonk brasileiro']
+154,É o Luiz,f534c6b671cf3a7dc1aca5833346d969,7dvdAsmvODojfLjshalGLq,
+155,Matheus Fernandes,b1f3ce027496161699265b2d15c069e0,37mqXU98U5GmH5ZDtlHM1c,"['arrocha', 'forro']"
+156,Dj Chris No Beat,c01c9f7ac8e5113c8bd48d7ee0b5f4dc,0vdcZzmneH0nK9CYFHQBjk,"['agronejo', 'no beat']"
+157,Mc Gabzin,2c708bd4970e0de1320b61d77bc5befe,5RmXJq0g7MNmgtxXLGbd6K,['funk mtg']
+158,Grupo Menos É Mais,81c14d8a9b7283ac8413bd2687ac1134,6vTqEFbTtTRJsuIpzZgjxi,"['pagode', 'pagode novo']"
+159,Os Barões Da Pisadinha & MC Danny,47e47eac3fc63ee2576c0a7ace1184c4,5Lv2GUVwqmQBPwrTrxucE5,"['agronejo', 'arrocha', 'forro', 'piseiro', 'sertanejo universitario']"
+160,Felipe Amorim & Zé Felipe,8ef9253efe7115a7456e8172dc0dcf33,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+161,Hugo & Guilherme,d6bfe86862f58ca4c2d70f5e21f74702,1LIuN7ov1IBQDdLsU83ojl,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+162,Dj Joao Da Inestan,4ee5e5f9112b032bd63992a7d8fa9aa6,1K3wppIvsUK99HODkiNgeu,"['funk bh', 'funk mtg']"
+163,Léo Santana,6559783970de97d052e573e5ff745044,7KVJCU4z5L4EUHILL8aMxR,"['arrocha', 'axe', 'forro', 'pagode baiano', 'pop nacional']"
+164,Amado Batista,aca43241ea6b3f4968492ee9a7ab19a0,5mQMEwn8ExRnlxpp3L0gHn,"['brega', 'brega saudade', 'sertanejo', 'sertanejo tradicional']"
+165,MC Cabelinho & Dallass,66df77498df1a68d8a360cd0ca9eb26a,1WQBwwssN6r8DSjUlkyUGW,"['funk consciente', 'trap brasileiro', 'trap funk']"
+166,Matuê,f2fa253f0383c94836fbe4f711976239,5nP8x4uEFjAAmDzwOEc9b8,"['r&b brasileiro', 'rap cearense', 'trap brasileiro']"
+167,Tribo da Periferia,8b2720dedd0b95812a2794b71e6892d6,1xxS2WrLlgl9QNGEUCsbPG,['rap df']
+168,L7NNON,40632f7a54de30d90705edddc151d9ac,0JjPiLQNgAFaEkwoy56B1C,"['funk rj', 'pop rap brasileiro', 'trap brasileiro']"
+169,L7NNON & DJ Biel do Furduncinho,fa12267859da01c10857e000b0c7e362,6Us5Zsn5MAHBk7SHBUsG5X,"['funk carioca', 'funk rj']"
+170,Treyce,d23379d2639f6dc241eefdcabcbe8cec,2CxOaVqRvTLZAZ7nFnJhsU,
+171,Orochi,547198dcaf88574a489dd954685864ca,3rfM2cGqF6DB0kUyytMkXx,"['brazilian hip hop', 'trap brasileiro']"
+172,Harry Styles,45ebbb129017c1701ce01ae36f46c203,6KImCVD70vtIoJWnq6nGn3,['pop']
+173,Mc IG,56edf08fbd8b88b0b56aa7209e7ada3d,2q9wk5fkeU2C9CgCKdh4AN,"['funk carioca', 'funk consciente', 'funk mtg', 'funk paulista']"
+174,Conde So Brega & João Gomes,174ad7fa7285f432b2026db8216c1f95,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+175,Mc Delux & DJ ABDO,df8f50d4dedf49b29296cf00c2246e68,3l4fsEzoeabsET7ddv0lZW,"['funk mandelao', 'funk mtg', 'phonk brasileiro']"
+176,MC Braz,769d4faae469de0048b8d6737d346ac2,7htxZTR76qcXYJylEmkLiJ,"['funk bh', 'funk mtg']"
+177,MC Tuto,be03605d1972bb6ea0427a387c87e1a5,6aoGgTKGqtsjj48ymcNs4Z,['funk consciente']
+178,Tz da Coronel,c6f363d67bcf8a23469dbe782d0d245c,3lIU3RoZiHen1QXAQ3KQ9e,"['trap brasileiro', 'trap funk']"
+179,Sid,f4a8b8ee7f98047de5c86ee1c9edc33a,5czbzNZZfWpyFgZyfT3Mkk,"['edm', 'house', 'tech house']"
+180,Anderson & Vei da Pisadinha & MARQUINHOS LIMA,d90930831e498c587a7206976c333455,1OnaDJeU2PxDBZZFkzkvZl,"['arrochadeira', 'forro', 'piseiro']"
+181,Zé Neto e Henrique & Diego & Victor Hugo,bfbd3d0a6e92517e22c2596e2a6cb3aa,487N2T9nIPEHrlTZLL3SQs,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+182,DNASTY,df8aa6925be00e3cc8b22faf76aafdea,2wRZGo2e20INyHf8wtVPVn,['trap brasileiro']
+183,Mc Rd,8e30f8f96181d206a9678a006c2db508,6ugw7JCu0AG7txRcRAxU8d,"['deboxe', 'funk mtg', 'funk rj', 'rave funk']"
+184,O Tubarão,bd1f910556448fd995b0f796d8185f5d,5oqu436HPM9PGpNSlPBpAT,['arrochadeira']
+185,Luan Santana & Henrique & Juliano,b4860ff8db8cbe2d6388514721fc884c,3qvcCP2J0fWi0m0uQDUf6r,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+186,Hugo & Guilherme & Jorge & Mateus,74248ad691943fe54abdfdae3de47f9a,1LIuN7ov1IBQDdLsU83ojl,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+187,MC Rogerinho & Wesley Safadão,701403abb51703ce740c5b4f1feb94b5,5JbQpbeFaKfuZVFzKwaawP,"['arrocha', 'batidao romantico']"
+188,Kellen Byanca,293a299c54c275dfb485c76c65ac537f,0aCN6JIKoXyhkzyL3LaCpI,['brazilian gospel']
+189,Edu E Maraial,a577de72c54a4bae28f7dad2b30770aa,4pfsxcqLdLvvzFUei66Bga,
+190,Mc Pepeu & DJ Swat,7686e3f5ac947740fad3def16ece70ee,3THyxXDkvAVvmfZKP3Fq7G,"['funk bh', 'funk mtg']"
+191,Oruam & MC Cabelinho,2d69b8554e446d4d5f93fc6835e70789,4yGgbQJMq9orWypwqtdzYT,['trap brasileiro']
+192,Mari Fernandez & NATTAN,9b12ff7d8c8bbd78dc1a0c9674ce2e50,1SXhEXzOTF7YeuQX59m7pT,['forro']
+193,Mc Theuzyn,fcdf6eee4945cfcdad85292988585e37,1boMFBiRXiba4RCcPs5DMm,['funk mtg']
+194,Vitória Souza,1797d5f3eed4badaee1e014065017e27,07tsf3FXOQCLN2djNLUT2j,['brazilian gospel']
+195,Mari Fernandez,12b0838246036f31368ef9c93cf38047,0BHm7qbh3ENxvXzkQAG7MP,"['agronejo', 'arrocha', 'arrochadeira', 'forro']"
+196,PSY,7b8f78c4ec5159323986bd0eff9a0fa1,2dd5mrQZvg6SmahdgVKDzh,"['k-rap', 'korean old school hip hop']"
+197,Mari Fernandez & Zé Vaqueiro,dca7e30023fe64761a6286fcceb18541,5K8Rmjmf4RZFffz94EmBRt,"['arrocha', 'forro', 'forro de favela']"
+198,Mc Kako & DJ WN,e0aced812cc9005fc2dba1fdf09cd136,5InVWl8IZB8zFAoNa5roKm,['funk paulista']
+199,Japãozin & NATTAN,d255cd4982b78be8e5abada8ccd31e3d,7bDY7ck0pXuKESZtEt1X5d,"['forro', 'lambadao', 'piseiro']"
+200,Mc Delux & Dj ABDO,5b1882169909a22955e4c6215a7a1cd2,3l4fsEzoeabsET7ddv0lZW,"['funk mandelao', 'funk mtg', 'phonk brasileiro']"
+201,Braão,9e37b649573a02e277e2c901e80d33b7,0GGDntDaQgJVknzJlXD1Nd,"['speed plug brasileiro', 'speed up brasileiro']"
+202,The Weeknd,6175b9f6699984f1ede4bea3a5c30fe1,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+203,Samuel Messias,1f1b46e0d314e71b545d0e715c14e5e4,5cFlGTfDoYwRGZrtEO92MJ,['brazilian gospel']
+204,MC G15,915fcdf11e898da638566f41fea9e75f,3Nipsl6GVwwGyeAk0J29C6,"['funk carioca', 'funk mtg', 'funk ostentacao', 'funk paulista']"
+205,Mussoumano,f1cce7cdbbbded31481f228c0118370b,6DOgsSpJQLiM09o1gocEWA,['nerdcore brasileiro']
+206,Mari Fernandez & Xand Avião,68bda059b35f9b2e73ecf0585400a0d8,0BHm7qbh3ENxvXzkQAG7MP,"['agronejo', 'arrocha', 'arrochadeira', 'forro']"
+207,Romim Mahta,c81b72bb5db4d689fb7d015e07f72e78,3LdMr2Epou57a1OQvjPBYt,['forro']
+208,João Gomes & L7NNON,6e14fe50ee38a3e0b7b3a7c17af7ebb9,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+209,Iguinho e Lulinha,e2e29ef0bb8cd60c4f2f6770d1071992,45MLFvHRAGIOvnslTnzS8C,['forro']
+210,Melanie Martinez,fced5ec02c90c93d746ea15907834c58,63yrD80RY3RNEM2YDpUpO8,"['alt z', 'electropop', 'pop']"
+211,Léo & Raphael & --,306cc5310b063a52a35348d4b6dbf6ce,68cvVh3HBHdwWfccCTaq0T,"['agronejo', 'sertanejo pop']"
+212,Amado Batista & Simone & Simaria,8efb16d9e6471d5d90110f69e24511e9,5mQMEwn8ExRnlxpp3L0gHn,"['brega', 'brega saudade', 'sertanejo', 'sertanejo tradicional']"
+213,Ruth B.,bbf40e713e0dcce4a852e5a135f4bca2,2WzaAvm2bBCf4pEhyuDgCY,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']"
+214,Jovem Dionisio,a58845399573ca6cd69959d4de91d24e,4m5LghDfOKFZNEBZ0GO1OQ,['indie curitibano']
+215,Ana Castela,074ab47a6d29988bf9edb004a3236e52,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+216,MC Durrony,f5538397d2722360313be60357fbff89,2s1GtomGAJ3fnqQBkUXbIL,['funk rj']
+217,Mc Koruja,4bf4905034e628f2534f112081fafce2,44AXaX2aJKSQhMxVTtNb0s,"['deep funk ostentacao', 'funk mtg']"
+218,DJ GBR,888f16fd3f6d6f6a987eb7f41a302f2d,0IhzJFf4QBEz0ifqLwScKV,['rave funk']
+219,Kate Bush,ca82501ee86f679cde2a062928108c5d,1aSxMhuvixZ8h9dK9jIDwL,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+220,Israel & Rodolffo & Maiara & Maraisa,6ceb87bba63850e80622e64b2d46b1f5,41QLxRXlc2NwfJZkHGHKid,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+221,MC Skcot & MC Teuzin PV,4b6fcaf7735d033d7c9e0b6f7d6c4b2c,66y9wEcA9aucJ69FTYYbGb,
+222,Costa Gold,1eb152e6d07a2320c3c17f72876a71c7,7q1aEytv83jXNECmyaMhgn,"['brazilian hip hop', 'trap brasileiro']"
+223,Pelé MilFlows,460940b316f0ccfa977c5e546704d3b4,4WbHbolEKZIhnkO2xv2Lm0,"['brazilian hip hop', 'pop rap brasileiro', 'trap brasileiro']"
+224,Racionais MC's,89ef959b286f1d9530127681835742c1,29CQLw9uLWsl8Qkz9holfr,"['boom bap brasileiro', 'brazilian hip hop']"
+225,Tom Odell,1966630d754c15b7dfbc9d0b4a2db5e4,2txHhyCwHjUEpJjWrEyqyX,"['chill pop', 'neo-singer-songwriter']"
+226,MC Meno Dani,e5d380a8e4154400b030859546ebf680,3LqcLDGw41dRZKsM51H9GI,"['deboxe', 'funk mtg']"
+227,Delacruz,60e4103e0ab75148ccc6c9c8e0e224ba,1MzXJ8AaHdidMAnjgcahS4,['pop nacional']
+228,Soraya Moraes,225761fa75ec857049458fef2fbd6144,0IPQAIkLxcVSsxlTPPn3Bp,['brazilian gospel']
+229,Azzy,da6a2f8262b52ac33ab57ede4466db58,1uf8uSErmKc3JVtmjVBZ83,"['brazilian hip hop', 'funk carioca', 'funk rj']"
+230,Billie Eilish & Khalid,27d68d23f9d4b5bfe5e7288149715076,2sMWl4DCJCSCWBNsagd4d6,
+231,Guilherme & Benuto,a22914116af8bb1a7f2808aae957c6a2,6m6e7D2TnV0aYMllFFwMxu,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+232,Thiaguinho,abb43295c2b8012d6e5b3d83406236fa,1vppDmG3i5sXf3DJzrK4T1,"['pagode', 'pagode novo', 'sertanejo universitario']"
+233,BTS,e66b8a0acab164bdbf805b19348be653,3Nrfpe0tUJi4K4DXYWgMUX,"['k-pop', 'k-pop boy group', 'pop']"
+234,Baco Exu do Blues & Luísa Sonza,1bb0359dcd9fa0e7fd639215525a2239,78nr1pVnDR7qZH6QbVMYZf,"['pop rap brasileiro', 'rap baiano', 'trap brasileiro']"
+235,Oruam,cf1462ebecd61e6b0998fb5309b8638c,4yGgbQJMq9orWypwqtdzYT,['trap brasileiro']
+236,MC Ryan SP & Pedro Lotto,935fb9dbc765792b34aeb593dfbe441b,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+237,BIN,35d3245a21b0942070419ef6602d239e,3pcerTbRFAPvWWtAfySFWB,"['cali rap', 'westcoast flow']"
+238,Mc Paiva ZS & Kotim,9fc46405ed9b93cfbe8823798461964d,0gHj4MPwwcZ8Zl9CY0hqT5,"['funk carioca', 'funk rj']"
+239,Mc Livinho,4bcd2eb34e6998cbf5b647fb2e787e1d,7me0S5Z40qVWj3gzyK8aC3,"['funk carioca', 'funk paulista', 'funk rj']"
+240,Zé Felipe & Mc Mari,ab47a0a7909ad3152d4752b8ff8c8487,7cmuxPnXRJxwuYDHfbD8Eu,"['agronejo', 'arrocha', 'arrochadeira', 'sertanejo', 'sertanejo universitario']"
+241,Filipe Ret & Mc Poze do Rodo,d8fdec474b3f331590bef74f20fe855d,7gJN8W0589FisSYJS17K54,['pop rap brasileiro']
+242,MC Tairon & Mc Vitin da Igrejinha,9825679c0c32820143c20639ee48a74c,6junQmlAntqTBJPTYCq25a,['funk mtg']
+243,Filipe Ret & Dallass,54ca8473bfbeb19ea3d0bdc90f7e60aa,7gJN8W0589FisSYJS17K54,['pop rap brasileiro']
+244,KayBlack,040bee5414da518f6c76a227ec0c7315,2h5Ha0ZiMFmOQD3iYcSXsy,"['trap brasileiro', 'trap funk']"
+245,Boca,c5ff46a97f5a7ceb1dedf046d86b1773,5jTtGLk1mGFMY5lQOvJYUj,
+246,Kawe & WIU,e33d36772c1bee6d75d6e3e3e3cfefcf,3GaPIF26mniFIX3T3Pv66l,
+247,Charlie Puth,5909241f525ec8eaab77303877d2c2ce,6VuMaDnrHyPL1p4EHjYLi7,"['pop', 'viral pop']"
+248,DJ Arana,7f575074e103feecd8362836ed504208,22RXQj1gd5zEbcRjdxiJbu,['funk mtg']
+249,Niack,ea461c34ac52605c0336bcfabd5412b5,0hCNtLu0JehylgoiP8L4Gh,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+250,Bruno & Marrone & Henrique & Juliano,655d295e5ba2018a0b382f362f7f75d4,5JXhkyafynxCvxtov7C1PV,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+251,Ludmilla & Luísa Sonza,bc01fd0de68ef145711a2e2a3d389533,3CDoRporvSjdzTrm99a3gi,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']"
+252,Kadu Martins,2ea9f63509704feb52c41646f97fa319,57VQCKnZ9nhS7bvoviXuZK,
+253,Paloma Faith,9cd588123ea5dcaaf0955dd0db05a3f5,4fwuXg6XQHfdlOdmw36OHa,"['british soul', 'talent show', 'uk pop']"
+254,j-hope,c002f07169395a82025f8724fcd401ba,0b1sIQumIAsNbqAoIClSpy,"['k-pop', 'k-rap']"
+255,Mussa,6728669315585e58dba64fa289353b52,0YinUQ50QDB7ZxSCLyQ40k,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+256,Dyamante DJ  & MC GW,0de3517214d36a2e80819b222fb9b522,0f1IECbrVV952unZkzrsg2,"['funk carioca', 'funk mtg', 'funk ostentacao', 'funk paulista', 'funk rj']"
+257,MC CH da Z.O,b3fb957fa685a113760215fd042f0f14,5cPFz5IHZH7LE8h2DOuhDA,['brega funk']
+258,MC Kevin o Chris,a67dcb1936a42d0ac9028f64e4957d39,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+259,Nivaldo Marques & NATTAN,ac1d3da6559380c8e2af9e6618da8abd,1SXhEXzOTF7YeuQX59m7pT,['forro']
+260,US Agroboy,413af9824099050204eb2b2de4bc766c,7gXnv2nAoF9X0XJQ3AMp7d,['agronejo']
+261,Luísa Sonza,cc1f5b7f7c8d76ab41e7f821200e8175,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+262,MC Jacaré & DJ TK,39d9e9d923a36fd19bc0330895f240f5,6qrqAYlS6lUj2BVXax7SZW,"['arrochadeira', 'deboxe', 'funk 150 bpm', 'funk mtg', 'funk rj', 'trap funk']"
+263,MVK7,142feb7de08bf5a6e103c295c6a6413c,1VaxrIeH9UUBdXlJ9wBQ9P,"['aesthetic rap', 'dark trap']"
+264,Mari Fernandez & Simone & Simaria,3fdb87848bb73cfa03b5c2ced9f8b45d,0BHm7qbh3ENxvXzkQAG7MP,"['agronejo', 'arrocha', 'arrochadeira', 'forro']"
+265,Renanzin Pressão,80d02775dfff49fd36f17874466a7780,0L7NGVE2t7zDGOL3x53Axo,"['forro', 'piseiro']"
+266,mc jhenny,2850d427e71f141ecaa56f91da980b90,6Ka3TKKRqhWwbmuxjhrmo6,"['funk mandelao', 'funk rj']"
+267,Felipe & Murillo & Ana Castela,60d825187d46b0091fc4ef15bc204289,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+268,Kellen Byanca & Jessé Aguiar,63e53dd79e626119fb01a4072a27cbf0,0g4xsygciHCrujQzdXUudC,['brazilian gospel']
+269,Lauana Prado,4b01aa9ca972d9e9b96406918f796f1e,6TYimByryGphZCtwYopH0y,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+270,Deavele Santos & Juventude Forrozeira,5ba46880aecd52ca1d3e4e1ef8b43654,4ZZAVpjlOjqJghyhrTRaLQ,
+271,Filipe Ret & Caio Luccas,1c9e47c0f93e2fd6c071db59152187ef,7gJN8W0589FisSYJS17K54,['pop rap brasileiro']
+272,Caio Luccas,a08f6e6990f1ff5a2990c5492bfb096f,1a3fr7NdeBT4JlGj6YlbDL,['trap brasileiro']
+273,BLACKPINK & PUBG MOBILE,1fc6be72988b25cb99765226e4feec97,41MozSoPIsD1dJM0CLPjZF,"['k-pop', 'k-pop girl group', 'pop']"
+274,Unha Pintada,2a9350c9c8a9353f75d95164aad5ca06,0oSb8ZEnIS4bPrpDoMT4tx,"['arrocha', 'forro', 'forro de favela', 'pagode baiano']"
+275,Murilo Huff & Maiara & Maraisa,dd75a4e108536cbb01703285f629f3d7,3hq7WoPJsrRP0KMSLhUgRz,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+276,Hugo & Guilherme & Gusttavo Lima,140cd1154acbf01f4bd95d237b774faa,1LIuN7ov1IBQDdLsU83ojl,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+277,Chefin,bdb5051fd83d43d4fad105ee3f50ae83,68PYmgkbRP1qZnEWOry7sB,"['funk carioca', 'trap brasileiro']"
+278,DJ AK BR & Dj Darge,7c7693cc5eeb7ed54f35eeba85a961e7,3JOwYU8Yv0wCe18FFanLEK,['funk rj']
+279,Lou Garcia,fa171d947fedf064c0f591d9a778d614,7l8ESevPECrqChwl3Bf7ov,['speed up brasileiro']
+280,La Vid Violin,fd98d35888c84b9c76a54612c2e4150a,7ENpjITrOtXDHZ64C3dDjD,['pop violin']
+281,Luan Santana & Luísa Sonza,68c3ca399912433e2524acc21f7dfb9e,3qvcCP2J0fWi0m0uQDUf6r,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+282,Kweller & Enzo Cello,e3fd5ec8d640610da62c9ea52bc84d85,5d6V3NZSeR7XZmEkf8inaU,['trap brasileiro']
+283,NATTAN,b77ddf81c1c89d529453a15327b934f0,1SXhEXzOTF7YeuQX59m7pT,['forro']
+284,Ana Castela & Léo & Raphael,72747d3a7fc35d18c825867771673ac1,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+285,Chris Brown,86517b0d724548d323c8dc0a9397de31,7bXgB6jMjp9ATFy66eO08Z,"['pop rap', 'r&b', 'rap']"
+286,BLACKPINK,0d055beb31fd94ce0399a1981d82afc5,41MozSoPIsD1dJM0CLPjZF,"['k-pop', 'k-pop girl group', 'pop']"
+287,Selminho DJ & MC Durrony,309784f704283e861b176a17f0d6125e,1szIIFdhWodOHfQUDn39ib,
+288,DJ RAFZO,6897ff8c8910c380992d603c9d7b19e6,0y7ezLzA6gWamvgJizEfDj,
+289,NGC Borges,08d55386594075b97e400378280d8f85,2q04a37NLffQ003EhtOjwx,
+290,Isaías Saad,107eedd80326785d67e2258e338ec0f7,1THj0JI7zld7YDsWERcSUz,"['adoracao', 'brazilian gospel']"
+291,Ludmilla & Marília Mendonça,ef5a216a63660e75d7401710405db557,3CDoRporvSjdzTrm99a3gi,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']"
+292,MC Bruna Alves,481fb8d27872b6f7442e26373bd49e06,2Y3kRJYYun9lDcRMM7ulQg,"['brega funk', 'funk carioca']"
+293,TWICE,b902ee92d6a174b2fda6fc9b2173cad8,7n2Ycct7Beij7Dj7meI4X0,"['k-pop', 'k-pop girl group', 'pop']"
+294,MC Marks,5c429fd282b6aee343241eb1f01c20b4,04QHNiih9ZesPvals6II1h,"['funk consciente', 'funk paulista']"
+295,Kevi Jonny,17dd043c85f9a762e5a61e0a5ce4c34c,3PVg0vaMUNTOu7C2GmYfSg,"['arrocha', 'forro', 'sertanejo']"
+296,Biu Do Piseiro,1d3eaa5669701de63791e2c63a2da110,0Pl4c5YACE9Hwq4l48d9kv,"['arrochadeira', 'forro', 'piseiro']"
+297,Coldplay,aa968850a9d255494612acd0552f8fcd,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']"
+298,Mc IG & DJ BOY,2b4492dc0b3368fae1ab018bbf9627d6,2q9wk5fkeU2C9CgCKdh4AN,"['funk carioca', 'funk consciente', 'funk mtg', 'funk paulista']"
+299,MC BN,c8f56f9b30aa51aac9ac7d14ef0d7652,1JYiyu6QtmtwjdFz3TEFTe,"['funk mandelao', 'funk mtg', 'phonk brasileiro', 'rave funk']"
+300,Guns N' Roses,f5c7108429bd1d3c1b1812f9b3244fb7,3qm84nBOXUEQ2vnTfUTTFC,"['glam metal', 'hard rock', 'rock']"
+301,Chris MC,927ba2411793a260a84ee11fe0cb83e8,2Zbb4oqupGY4mmskwlygCp,"['ccm', 'deep ccm', 'worship']"
+302,MC Jacaré,935e483c93fbc4a31f2a1c08028489d2,6qrqAYlS6lUj2BVXax7SZW,"['arrochadeira', 'deboxe', 'funk 150 bpm', 'funk mtg', 'funk rj', 'trap funk']"
+303,WIU & MC Ryan SP,bef7a0a35cdb148a44dbbfa9888814c3,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+304,Sam Smith & Kim Petras,df1d5e76392988c0a40f94f182d2f145,3Xt3RrJMFv5SZkCfUE8C1J,"['alt z', 'pop', 'transpop']"
+305,Gustavo Mioto & Mari Fernandez,c6c3a054ebe6a6b6098961beefeb5c1a,1X6ORK7IekgmyjV6IFPszP,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+306,Guilherme & Benuto & Xand Avião,d4a10693bec286ff8c5da0c7346cfe1f,6m6e7D2TnV0aYMllFFwMxu,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+307,Deavele Santos & Wesley Safadão,f54c7fba31bcccc3b5c9293f4778f654,1AL2GKpmRrKXkYIcASuRFa,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']"
+308,Menor MC,bc76a84677071d4ddec5f14783a00f87,78Y1NpgD0yMKoBetaYlUzS,['funk paulista']
+309,Paulo e Nathan & Hugo & Guilherme,75e2066add629238fcaec4783153a406,3CGLLDfrPjF2FJ8HDCKMMv,"['sertanejo', 'sertanejo pop']"
+310,MC Mr Bim & JN no Beat,ce59cd0575bc375aab90a759f0dc10e7,0Lhk5DBsN2N0HGUZ0TmUq2,"['funk mtg', 'pagode baiano']"
+311,DJ WN & Mc Havi,80e88fc80e1682ee6672e4b55f701b4f,3joq445M6f168kb3mkp7BB,['funk ostentacao']
+312,Raffé & Mainstreet,623255c1c64cce7ebcfd693d1b3c2811,0j4dGWeyGGE4GvrAzdZIZ5,"['italian tech house', 'tech house']"
+313,WIU & Oruam,628a2f7a5c2ce44597a86dc7288eb8d6,3MrDVzg7ZXaYMyQmbDInr7,['trap brasileiro']
+314,João Gomes & Yara Tchê,119b7be2e0f91c413ff67a39b155e063,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+315,Wesley Safadão & Alanzim Coreano,5901296c27c27fe40bda7e08b0a783f9,1AL2GKpmRrKXkYIcASuRFa,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']"
+316,Wesley Safadão & Lucas Aboiador,2837983cb138072de2b3e002a5218f46,1AL2GKpmRrKXkYIcASuRFa,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']"
+317,DJ Agos,29bb2fc6bba726ee0c689ed3ea86a8d9,2m4LlfxDioYvvjx6UWjV8U,['sped up']
+318,Katy Perry,f273e8985c1ccf881041fc47f59b8a74,6jJ0s89eD6GaHleKKya26X,['pop']
+319,Luiz Poderoso Chefão,0b52aa65c12ef4b40c876e6553fe0655,6LTXhD91f2rjmAq5f55sns,['lambadao']
+320,Josué Bom de Faixa,3c8295f07263f1e521856daadababd45,6yEKZXXjkBPBcAQAFdvSlz,"['forro', 'piseiro']"
+321,HITMAKER & Ana Castela,dfa0c888107a6072a84c6efe049de3fc,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+322,Deavele Santos,d4128a14b36b0c10789900434d8460aa,4pby53BFNfng1G88nYhBaM,['reggae do maranhao']
+323,PEDRO SAMPAIO & Zé Felipe,7eb4f8f43626f47825166b60acd4ff29,5wbf52LA6kcaboHSN6NEF1,"['funk carioca', 'funk rj']"
+324,Mc Kitinho,16d65626a4c8d7e0e4949b620fe95c7d,1d2PrJ5wELpihT8yrwH4mO,"['funk carioca', 'funk mtg', 'funk ostentacao']"
+325,CABBRAU & Leandro e As Abusadas,1850ae3b3f5609b38d6761899d48fb2e,6i76Njw7mW2TtsQIRVsqAG,['funk rj']
+326,Mc Daniel,0f2479efd94a2e3920e61a864eeb6e1d,6YzSM19LzpLH0nVKKU6Jsy,['funk viral']
+327,William Shewfelt,cccf1182cc8639bb98cd36b0724c68a5,09bSX8VN7IGxHaysne6DTj,
+328,Taylor Swift,7ae068e144aab71b5c9f9b0a517ade9f,06HL4z0CvFAxyc27GXpf02,['pop']
+329,Diego & Victor Hugo & Jorge & Mateus,2fe545fc7afc1c13a0679458c358c8cc,3k68C6mNMJL6OaAdWeW2ZF,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+330,Matheus & Kauan & Jorge & Mateus,4787c48d1623c2721aeb78c64788bc7b,2Z0lRIqr997lIUiPtrpKCr,"['agronejo', 'arrocha', 'pop nacional', 'sertanejo', 'sertanejo universitario']"
+331,Stephen Sanchez,8c359ca94573d25a14f54f198780f995,5XKFrudbV4IiuE5WuTPRmT,['gen z singer-songwriter']
+332,Mc Kako,66230c549efe2ee351ad36b75c142a5c,5InVWl8IZB8zFAoNa5roKm,['funk paulista']
+333,Tiago Doidão & Juliano Maderada,b1e5ac43b89e96484c572fb240c5a4f5,5Y3MV9DZ0d87NnVm56qSY1,"['trap argentino', 'trap latino', 'urbano latino']"
+334,Rihanna,5285577208aaf9b65dba1e3257ef22a8,5pKCCKE2ajJHZ9KAiaK11H,"['barbadian pop', 'pop', 'urban contemporary']"
+335,Orquestra e Coro Cid,dd72917306dba0958b7bd295f2e3c3b2,23Ha8ej75ohEIGNmlBTuDP,
+336,Chefin & Leviano,c94a140025ffaff8a86d5a687921a6ce,68PYmgkbRP1qZnEWOry7sB,"['funk carioca', 'trap brasileiro']"
+337,JIN,1243c7d4cb7b1676b8e3c6eb3881604e,5vV3bFXnN6D6N3Nj4xRvaV,['k-pop']
+338,Yago Oproprio,68e722f8e2a65bbfd062d906a9a7c227,7HoPy2YmahCCaYaFSFq497,
+339,Mc Kevin,4c54c20bff79807b9e23453bf54601e2,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+340,Arctic Monkeys,492561cf76939197932bb7bc15df18bf,7Ln80lUS6He07XvHI8qqHH,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+341,Israel & Rodolffo & Ana Castela,2803f0da306dd6a9291ac41f70f952e8,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+342,Giulia Be,8b8c93ae4ad2b004565ff7450175b521,0kjGPGtoyKwKVOZAKmv5K6,['pop nacional']
+343,Lali DJ,e2c88a92d1aee582961f21c4ea67f9ef,2YYxJJfpZSYxnKGkQUgk9X,
+344,DJ Ivis,53e0d36f75ec23510b70232677172f45,0RPzmE1iY76tx1eBBXFyYn,"['arrocha', 'piseiro']"
+345,Kotim & Mc Paiva ZS,5dc0932132df7a471d5aea555cb08202,0gHj4MPwwcZ8Zl9CY0hqT5,"['funk carioca', 'funk rj']"
+346,Cristiano Araújo,e9978505b80fe376658331651af31f90,4HF14RSTZQcEafvfPCFEpI,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+347,Shakira,259a8d89684788987942263528121bd0,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin pop', 'pop']"
+348,DJ Dozabri,6c19f291e0a6994644900a126cfe5745,06e0gXtUpvgPUZFrR2ywsg,"['funk mandelao', 'funk mtg']"
+349,Nicki Minaj,206852b9306afa2b3c5dc232aab226f1,0hCNtLu0JehylgoiP8L4Gh,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+350,GDM,dcef4f5a87b5148767155fc44e5b11c7,1aZEF5IIFQAA2Z4bGFGihH,
+351,Bonde do Forró & Juliana Bonde,190db1502c78af1e70b1d9bd860bc3df,51flkVmoTWBYSH8U6dgKqL,"['forro', 'sertanejo', 'sertanejo universitario']"
+352,Jung Kook,82b4cfddb071a425e2210ec0df4397f6,6HaGTQPmzraVmaVxvz6EUc,['k-pop']
+353,Fabinho Testado & Iguinho e Lulinha,d2e0461ebb1078413376e73ffd465489,45MLFvHRAGIOvnslTnzS8C,['forro']
+354,Dj Vitor Lima,04b6c39f035021f55a10e08b964f857b,4OgpoVCB5dqTzLGZ9e5VS4,['no beat']
+355,Lady Gaga,09488a6484f973a64d1a686f464da87e,1HY2Jd0NmPuamShAr6KMms,"['art pop', 'dance pop', 'pop']"
+356,WIU,41d95e37d7b492e086f8324b92195943,3MrDVzg7ZXaYMyQmbDInr7,['trap brasileiro']
+357,Eric Land & Iguinho e Lulinha,845a0a5cc18b44b9be246abbe79f2184,007FXgr0jLBJxhPJjacXQH,['forro']
+358,Rema & Selena Gomez,95c5dc2ec5aa4169423039925592f7bb,46pWGuE3dSwY3bMMXGBvVS,"['afrobeats', 'nigerian pop']"
+359,Israel & Rodolffo & Jorge & Mateus,86d49af7365591150fd6be2b26dec689,41QLxRXlc2NwfJZkHGHKid,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+360,MC Ryan SP & Mc Daniel,74e95f40ad2279f821bfcaef1a59e94c,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+361,Mc Daniel & MC Hariel,ad38a920372d429eb3a0f71c9d3422cf,6YzSM19LzpLH0nVKKU6Jsy,['funk viral']
+362,Dj Tg Beats,003651898a78106e6872c3dabd01dc08,6Eni0bpQP6Z3G2CIN7VJRh,['funk viral']
+363,Felipe e Rodrigo,fa9f7af0dff7af210b6ae5698668aa30,7gZu6kPnY9enEi5FvgTO4F,"['sertanejo', 'sertanejo pop']"
+364,NATTAN & Mari Fernandez,f9259737770edf9cbc2e47efcf080844,1SXhEXzOTF7YeuQX59m7pT,['forro']
+365,Mc Tato & Dj ak beats,53446a024c0f483840e74d4f77af719b,7lc98VPDdogFv3eLfCX7sq,['funk viral']
+366,Orgânico,f14b0075f6f2c3512e5a6df37edd9fb8,5UOOgRWguRmVZo1voJuQpf,['pop rap brasileiro']
+367,Maiara & Maraisa,e0dbead841f1d5ce46ca3e5dc433a3eb,59jlthNnbmim5l9tmNA7se,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+368,SONY NO BEAT & felupe,ac4f010251f0ee9adf9fe62aef9ed738,4cMT9oSbMRlVPrkFyZAtzb,['no beat']
+369,Mari Fernandez & Murilo Huff,ca319cf856da484cf25b642960a7633e,0BHm7qbh3ENxvXzkQAG7MP,"['agronejo', 'arrocha', 'arrochadeira', 'forro']"
+370,Gaab & Gabb MC,eb3220637927ed6b1bafa08188d3506b,5qyPbwqvOEp7FvR1EeTQQ2,['funk viral']
+371,MC Cabelinho & Ariel Donato,0794a0a72b89a0d1ba9eb17f8739718f,1WQBwwssN6r8DSjUlkyUGW,"['funk consciente', 'trap brasileiro', 'trap funk']"
+372,MC Pikachu & DJ Arana,78f72355aac02fbc3be37e27d77f765c,6qFbBE8ubS4NxtxVPytxG5,"['funk carioca', 'funk ostentacao']"
+373,Luísa Sonza & Xamã,94e1d9e83aa1eb50c2871f951b9918b7,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+374,Kotim,bd6b5ee51557f3dfb088835ab58d204b,210Sy1oGhvPu929TKoSVcN,['funk carioca']
+375,Vivi,a98a257b4a3dd84392a34bd00da0b505,7aCsFWCF4YljmoHrXRA63I,
+376,Evoney Fernandes,79df0ec0891edeb731d4401be71c124c,5mkVUbjeMxfKKjqL1mhplz,['reggae do maranhao']
+377,Tierry & Manoel Gomes,693bcc2597f33903d2dff49f73178ab4,4FUMTycjZlEY6ZxMgqNjC8,"['arrocha', 'sertanejo universitario']"
+378,Bonde das Maravilhas,bac861603259aceafb61e8603200f24f,3UZyjeKVvRv39UqBpeYX6d,"['deep funk ostentacao', 'funk carioca']"
+379,Dj Gouveia,e387a0fa03be52cb8ee59a9915b03c97,4tjtE10Cy3hoYiDdPhoVem,"['funk mtg', 'funk rj']"
+380,Léo Chaves,b328eaec7d11e37b0878dda13c16371a,0FYpZOHSyfPpCSsLwydVbL,
+381,NATTAN & Felipe Amorim,5a98541d30f3eaeb7b40ae67ea47af19,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+382,Veigh & Supernova Ent,6620af287bd5998a07f693e45f077c45,4YqwRbMLqGHRHLS1w2ZKse,['trap brasileiro']
+383,Orochi & Kizzy,d1026e6e6247a10d69e9e1fea7914941,3rfM2cGqF6DB0kUyytMkXx,"['brazilian hip hop', 'trap brasileiro']"
+384,Dj Lg do Sf,22821889d84731868271b20e5a78abd1,72ipMVQcFmP8kVnlHbcV3q,"['funk bh', 'funk mtg', 'funk rj']"
+385,Oh Polêmico,d77b6decfab7fb06f26ced80daef6a64,6sFRadg88wiacDp0uIQ6VW,['pagode baiano']
+386,Idina Menzel,40fe540d8c290a5d9fb2987bf7b842a4,73Np75Wv2tju61Eo9Zw4IR,"['hollywood', 'movie tunes', 'show tunes']"
+387,MC Pipokinha,58d5c49d7e0d359a40bfbff0b70daae2,7BT8x82CjBZUjJy6xj1G3O,['funk mtg']
+388,MC Cabelinho & Gloria Groove,8030c827bc5cad3b5015bdb7bd891c1f,1WQBwwssN6r8DSjUlkyUGW,"['funk consciente', 'trap brasileiro', 'trap funk']"
+389,Maria Marçal,5bea9e9787bfcb8ee5d901f07bdaf596,1pZ1kGj7yoPvG1sSN74imk,['brazilian gospel']
+390,Oruam & Mainstreet,3f99d9bbf709e52684d158536b7afedb,4yGgbQJMq9orWypwqtdzYT,['trap brasileiro']
+391,Miley Cyrus,1406a07118bec79769ea0d33e5d497a0,5YGY8feqx7naU7z4HrwZM6,['pop']
+392,Shakira & Bizarrap,fa94cf764e959b1d3cfbdc213839a716,0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin pop', 'pop']"
+393,Naiara Azevedo & Ana Castela,61991da6a9df5eec6fbca42154bb1144,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+394,Mano dembele,5f9a0967cf1f8d2f7da82528cfc12774,72FJTmBqUIZKXs7HkBN0yi,
+395,Mc Kako & DJ JR No Beat,5adb9d4738bcc2db6cc1be0f8fd6c391,5InVWl8IZB8zFAoNa5roKm,['funk paulista']
+396,Veigh,c684e39626d3b136499ccfcee2e26cbe,4YqwRbMLqGHRHLS1w2ZKse,['trap brasileiro']
+397,TAEYANG,33bc89476e6c7bae8b53936cf6320ad8,6udveWUgX4vu75FF0DTrXV,"['k-pop', 'korean r&b']"
+398,Kamylinha santos,799fd9e2510e67371b4c6e9d42253fa8,3gzTMzKld1hYJ1cRwz3cgq,
+399,Dj Chaves & Mc Tato,b41beb6f8276e2e011de156fbd8dc1dc,0Vox8heTmJmiut8fVuCrl9,
+400,Simone Mendes,1a2d6bb4bd0003a5c22b6e6955fb02e2,2eK9gcJQ6uqVvJL63dnOM3,['sertanejo']
+401,ADL,17ede1ef65aa6b14bf5899f32c313b9d,4dpARuHxo51G3z768sgnrY,"['british soul', 'pop', 'pop soul', 'uk pop']"
+402,US Agroboy & Ana Castela,425ef1bb69ac9b3c264ba870c306d682,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+403,Yury Pressão & Iguinho & Lulinha,8e95ceea72d8c7f267c438870875b842,5BZtJagimq2zY5TNXoQSKr,['forro']
+404,Luiza Martins & Murilo Huff,8c1b7a8868ae5025cb03c77926e5af33,3hq7WoPJsrRP0KMSLhUgRz,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+405,Luan Pereira & Guilherme & Benuto,08cc7bee92a33c909ecaa2bfe81ed8ad,5kVgcCdPbeUwxBqWxi2Ktl,['agronejo']
+406,Guilherme & Santiago,bd721a01f528222bd570a8048e3cdda7,61rqgwKmF0QwycnC8O82rn,"['sertanejo', 'sertanejo pop', 'sertanejo tradicional', 'sertanejo universitario']"
+407,Matheus & Kauan & Mari Fernandez,34398963f86ff353d108b5e97412642d,2Z0lRIqr997lIUiPtrpKCr,"['agronejo', 'arrocha', 'pop nacional', 'sertanejo', 'sertanejo universitario']"
+408,DJ Santos MEC,c63507a72adfa72fdaeb86c95c984f07,3gFraZSNZQpoQ704aHC0Ev,
+409,Péricles,6f12dbecda262aea5aa31612a6cf4566,6gEzJZrbm0F4ihvE9iXR9z,"['pagode', 'pagode novo']"
+410,Manoel Gomes & Tierry,a9d3ea545d1002d566fa0735c9fc8db3,2TjH3yhwPkVDvc6U5GWwQ8,
+411,MC Xenon,36d9fe45f059e7cce11fb4cd8b394609,5vcMPVDXTLhJ4UpOZKXZtg,"['funk consciente', 'funk mtg', 'rap mineiro']"
+412,Pisadinha de Luxo,bbe537304fb4ca6a13eb9270efe6145d,2WuvtQ2O6J0tTQDrvs9RFW,"['forro', 'piseiro']"
+413,Gustavo Mioto & MC Don Juan,c9a6c7a90341d46da85dc1fbedc062e8,1X6ORK7IekgmyjV6IFPszP,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+414,Ana Castela & PEDRO SAMPAIO,9ab00a0de1b7917c6ce72e05e2afd530,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+415,PEDRO SAMPAIO & Thaysa Maravilha,cd74ad894cdc371be103e250de94da9a,5wbf52LA6kcaboHSN6NEF1,"['funk carioca', 'funk rj']"
+416,MC Ryan SP & Wesley Safadão,aa42b68ced61fb1063e8531343e1808a,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+417,Ivete Sangalo,7a68bf8c369fd4fc729f0631a46d23a6,7dzq55YG3wjViqexDwiycQ,"['arrocha', 'axe', 'mpb', 'pagode', 'pop nacional', 'samba reggae', 'sertanejo universitario']"
+418,MC Pipokinha & DJ DS,c6c984bca49c81a90ed36444925a9c3a,7MUWmkn93U6J1G5wu4EnNT,
+419,Bell Marques,cd344b2eea197c83b5e62c9954df0abb,63LUqR0xvuZ6Es3AF6BcZh,['axe']
+420,Gorillaz,473b06652e159bf1434a71309b397aa9,3AA28KZvwAUcZuOKwyblJQ,"['alternative hip hop', 'modern rock', 'rock']"
+421,KAROL G & Shakira,ab63b7675d522748eb18a354cb3724f9,790FomKkXshlbRYZFtlgla,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+422,The Weeknd & Ariana Grande,fc1813063347412e4b6628d5871fdcc1,,
+423,Casa Worship,e486868b3e9e3e21d049d8c69d4f8572,4bqKmu3kRUl6X7pTl1CuVs,['brazilian gospel']
+424,Belle Kaffer,a27243eb54d75c86450646146a3bf2ca,4N2lyAuQF0kXt3UnsN7XZx,
+425,Yuri Redicopa & Dj Bnão,866a72592d4b3a82f769f96452c7de60,0pVJXCGsBydS7rq0R4w4hm,"['deboxe', 'funk 150 bpm', 'funk mtg']"
+426,Long Beatz,49686c55649dacbe7f9dd4ed901d8e3c,1oBkccDqIDMTntIIHKlJBp,['trap brasileiro']
+427,MC Kevin o Chris & BUARQUE,404a294939365657e473b288991a53a6,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+428,Jão & Anitta,b851167c40305400a0c8c851803a336d,1IMENE2OCzsrXuu62aW1mD,['afrobeats']
+429,João Gomes & MC Ryan SP,ce5adf8324ecd4b880bc34fd82e11c08,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+430,Israel & Rodolffo & Mari Fernandez,5006ec3b6938e0994676a9954d854dec,41QLxRXlc2NwfJZkHGHKid,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+431,Grupo Menos É Mais & Matheus Fernandes,44a4f8606df0b7c05617190cf3c5c5b6,6vTqEFbTtTRJsuIpzZgjxi,"['pagode', 'pagode novo']"
+432,Charlie Brown Jr.,14496b23439608fdc7588e04146a5a6d,1on7ZQ2pvgeQF4vmIA09x5,"['brazilian rock', 'hard rock brasileiro', 'rock alternativo brasileiro', 'rock nacional brasileiro']"
+433,Luan Pereira & MC Ryan SP,9e1da20bc5017661b9a8ca36cc69a37b,75i9GaW2MJUgt4BkdUnuUY,['funk paulista']
+434,Jimin,55b6718921836a49860a96d799d4442c,1oSPZhvZMIrWW5I41kPkkY,['k-pop']
+435,Hytalo Santos,9b6e479084b9a187d0c6f8df8bea8f1f,4pvaub3kAlPAqisOTHdrdG,['funk viral']
+436,Mc Larissa,3bae16c3037557f161ddab3983147649,6mTLUu4QRFZXFurxQyLzBX,
+437,Grandão Vaqueiro & NATTAN,b50e53f779789e7333f7f67ce56cb17a,1gveCzOmKMjqEMwuB5kKNH,
+438,cryzin,258fd0b9da84b5bb2da9580709366110,6EU3PugukCcYs0n3JuXjrH,['trap brasileiro']
+439,Zé Vaqueiro & Iguinho e Lulinha,29dfa5c65ce0fc670e80e23e6564d7ce,5K8Rmjmf4RZFffz94EmBRt,"['arrocha', 'forro', 'forro de favela']"
+440,Clayton & Romário,098bfb03f6fd58e68206f6a72d5aa77a,1tKrZaph4cLsnEdqC5BNEQ,"['agronejo', 'arrocha', 'sertanejo pop', 'sertanejo universitario']"
+441,Supernova Ent,d83d667740b75782a5864ec7f1251133,3prRKGJz16RRMRSIM97nHw,['trap brasileiro']
+442,Billie Eilish,be05b49960df40ff2a1c9ceff6afe302,6qqNVTkY8uBg9cP3Jd7DAH,"['art pop', 'electropop', 'pop']"
+443,JISOO,335d99f049ad81a15690f14c814150f1,6UZ0ba50XreR4TM8u322gs,['k-pop']
+444,Kayblack,5dfca70690048d77fc9fe7f33eb61983,2h5Ha0ZiMFmOQD3iYcSXsy,"['trap brasileiro', 'trap funk']"
+445,Nadson O Ferinha,03bf21d117cc55fa5713e0c371df783f,7KdmibNmW5J0q5YtGnJqQ8,"['arrocha', 'forro']"
+446,MC PH,5ff4de6d77e9cbe21b8414d0250522b5,4PLdCloYxu2bMKfuuB9lI5,"['funk consciente', 'funk paulista']"
+447,Charles New & DJ Neeh FZR,6d635b8a78589a831a424251c053a204,7CK5FIA9viaFGVnDnfbuw8,
+448,Julia Vitória,2eecfb2a320e128d88057b4123f715b3,6tLHGlt7L7raSf6vr96hWi,['brazilian gospel']
+449,Daniel,262031397020fd8df478ec13b4b096c5,20wkVLutqVOYrc0kxFs7rA,['canadian contemporary r&b']
+450,Daniel & Henrique & Juliano,97b4c32c7fcb887a5fbcf52b21cf752d,3p7PcrEHaaKLJnPUGOtRlT,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+451,MC Lzyn & DJ DUBOM,5c61cd2666d2af470f4a76c535c60772,4CjwZ3c0XNrtf2JkXV0Ss6,
+452,Jaldo Rodrigues,32409047522c78516c0b605a2ec66f73,2ZtIsSrdk08ODFYVLeYZKq,
+453,MC Menor MT,ccf0e3b4571143cce46334f1bb5cfe4b,4EMRE0wdcc2xjv1PCmTqUU,"['deboxe', 'funk mandelao', 'funk mtg']"
+454,MC Kevin o Chris & MC Caja,7b4ed48fc49e4f6900d3c1ec54d4fa6b,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+455,Chitãozinho & Xororó & Zé Ramalho,c844c735d2cd9968687b62c5f4f7a543,7gfkYbxpguEc9bm6m8TpAr,"['agronejo', 'sertanejo', 'sertanejo tradicional', 'sertanejo universitario']"
+456,Felipe Melchiori,fcbca5779bd3785c91a47f2d7bddf967,5TaRrEcAG6hArrHUbJKRVu,
+457,Mari Fernandez & Luísa Sonza,685ce15aa319b002946c0c4787eb4bd6,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+458,Aline Barros,9dba113bb4375397b16e625d51544828,2aKyKSggb31Kw9s9i3iXoo,['brazilian gospel']
+459,Wesley Safadão & Ana Castela,54d0c2d97fef64a34b402957b147d9e1,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+460,Marco Brasil Filho & DJ Kevin,2c58e7d9593b7e00b4275d30c9897b00,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+461,DJ JOÃO PEREIRA,e8e76565e970d3d8bd3ed7668cf612f8,1tPQcKxMrvf09Ry8zk68gt,
+462,MC GP,6428e53c84b5246e98937fa7821946bd,5s27i7oqhNWIcE4HeoVdq0,"['funk consciente', 'funk paulista']"
+463,Mc Kevin & Perera Dj,63458fb204412c488b4f1f4efbcb0cbb,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+464,MC Caverinha & KayBlack,146c2cc418162be062f19a8790315f85,7tojcuXcZ7eBlQjbAc65Ee,['trap brasileiro']
+465,Marília Mendonça & Zezé Di Camargo,4af8b75e0ad07422068dd9316cad51fa,1yR65psqiazQpeM79CcGh8,"['arrocha', 'sertanejo', 'sertanejo universitario']"
+466,MC PH & Murillo e LT no Beat,cc1cadec310bc70b726ad5e68b91bc8e,0KcbRunfjZHfwEnEgd1Dy6,
+467,Ferrugem,ac1ac2d1716d7b99ab2aae14a7e5a4c6,5ZfBThYiIIhL7jHMG8gDB2,"['funk carioca', 'pagode', 'pagode novo', 'sertanejo universitario']"
+468,Dj Pikeno MPC,abc4d427ec3832ef0f80dd232cf928bc,1X842P1hBNRnwsuy0e3DLS,"['funk mandelao', 'funk mtg']"
+469,Nathália Braga,586bba60b017945d154e907f78fef144,4QkSOV4m3EYCOhZXK9y5vV,['brazilian gospel']
+470,Guilherme & Benuto & Simone Mendes,755e7431c68e4222bd49cb3c8f12e436,6m6e7D2TnV0aYMllFFwMxu,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+471,Bruna Karla,20c68298700d8ffe04538c42318d337d,0YdeGzSneJdP1NEKY3EFlR,['brazilian gospel']
+472,Anitta & HITMAKER,a48b1576f21a1406bcbd961e27a37313,7FNnA9vBm6EKceENgCGRMb,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']"
+473,Zé Felipe & MC Jacaré,c02ec393ccbac106a419f0f1edf7c6f3,6qrqAYlS6lUj2BVXax7SZW,"['arrochadeira', 'deboxe', 'funk 150 bpm', 'funk mtg', 'funk rj', 'trap funk']"
+474,Fiduma & Jeca,df07dfa32d8c27315f7fbcde7f611549,2h73KyGixa4A1xlhcxjpG1,"['agronejo', 'sertanejo pop', 'sertanejo universitario']"
+475,DJ Katrip,5e333ce34b45cd0d717e1b74194c8d07,4Ley0K7c2keTiOW0Jpam5g,"['deboxe', 'rave funk']"
+476,DENNIS & MC Kevin o Chris,cd42c93da51b1ec1cf243fc08cfbf56e,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+477,021 Richard & DJ WKILLA,aa2c2af323046dd98238c81ce8c5efee,3Cd3LHNXuJd9NudRiH1IxS,
+478,Pedro Paulo & Alex & Ana Castela,50021e2942d0185defa9f8d50ae01c1b,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+479,Felipe Amorim & Gustavo Mioto,644ec5031d89212c5008da6a448e1c56,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+480,Eric Land & Tarcísio do Acordeon,e7b16a082832a8dbc8b68fe23c4ca745,48HORs6F9P7IgdyKrk4MZC,"['arrocha', 'forro']"
+481,Raflow,479b351b729094f6f018c9a6c236ab53,6NHJLHGyF86wd4DT8fNqD0,
+482,O Erótico,16a7b7b28dd747bed22de49d7e84749f,41S9HR3EotaFgxGQwTGxAT,['pagode baiano']
+483,Melody & Naldo Benny,5f3162b1712b1019961949d6de72bd45,4xnFkvb5Pk259qAXQ6yrYU,"['funk carioca', 'funk das antigas', 'funk melody']"
+484,MC Pedrinho & DJ 900,6f0e217a8c50bb6399d9183fb4d52ec4,1etNnR2SdlelBQAICa2Q5m,"['funk carioca', 'funk mtg', 'funk paulista']"
+485,MC Menor da VG,449efc811f167739465b338cdec76bbd,4maKTxhTIDEnWKra7wEIMR,"['funk carioca', 'funk mtg', 'funk ostentacao', 'funk paulista']"
+486,Valesca Mayssa,dbf452166644851a3c0b6f84d7b8be0b,4K4fsuNkaAwysF3AxRPLNh,['brazilian gospel']
+487,Raphaela Santos,c765981984781785d34986ee41e3a06d,1xUYzPQi0zdezdLkEjuqQH,
+488,AgroPlay,e365ea9a3fd59be3e03f94a1438ac72e,0uGWkZRPp1Urk77XBrPBsZ,['agronejo']
+489,Dj Chris No Beat & Ana Castela,0d415674030829184a296a6a647d874d,0vdcZzmneH0nK9CYFHQBjk,"['agronejo', 'no beat']"
+490,Luan Pereira & Gustavo Mioto,759818b247eecec83549540beacdcfe1,5kVgcCdPbeUwxBqWxi2Ktl,['agronejo']
+491,João Gomes & Raquel dos Teclados,c5e31ced449e7a69ee49469ef934bd2b,6AZMMl0OWhhybvX6q8FXhq,"['agronejo', 'arrocha', 'forro']"
+492,Olivia Rodrigo,8358aaf28c0b91ed308fd13702d3f371,1McMsnEElThX1knmY4oliG,['pop']
+493,WATILA GYN,262cbe4243b508c5b9d39c2a516383b4,5IfPngxE3IRk9PjoZlVv5l,['deboxe']
+494,Mariana Fagundes & Kevi Jonny,e3d1643a04d06beaf42dadbe09b5dbdb,3PVg0vaMUNTOu7C2GmYfSg,"['arrocha', 'forro', 'sertanejo']"
+495,Diego & Victor Hugo & Luan Pereira,6e25381e176ee608885e17af26bb2d9e,3k68C6mNMJL6OaAdWeW2ZF,"['arrocha', 'sertanejo', 'sertanejo pop', 'sertanejo universitario']"
+496,DJ RENAN DA BL,5843beadeb852fcd68d5d9e25525f297,13VVAjO14WSrctkGL7U3xc,['funk mtg']
+497,João Gomes & Iguinho e Lulinha,d2aee5b88f1d246f28e11622848e0d50,4JNo6Q5KdcRf1vtSX9mB0S,"['forro', 'piseiro']"
+498,NewJeans,81f06ed15bdddd9a3c67f7efcec149ab,6HvZYsbFfjnjFrWF950C9d,"['k-pop', 'k-pop girl group']"
+499,Léo & Raphael,500e92b5b65042d85ed950b0ae22ffc1,68cvVh3HBHdwWfccCTaq0T,"['agronejo', 'sertanejo pop']"
+500,MC Don Juan & DJ BOY,2c7852b5254d02627724b6509e189469,7Lmrb6KcIzfkmgbtokjsAL,"['arrocha', 'batidao romantico', 'funk carioca', 'funk mtg', 'funk paulista']"
+501,Gusttavo Lima & Matheus & Kauan,1aea2e42ce31a5ca8dcbe7b7054b122e,7MiDcPa6UiV3In7lIM71IN,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+502,Mc Poze do Rodo & Mainstreet,805d8c4b3588486570f2414705bc32ef,28ie4NNTa2VW2QV4Zray8M,['funk carioca']
+503,MC Kevin o Chris & Dj Nk Da Serra,78345653fb81f4b93724f7783825df3e,2UMj7NCbuqy1yUZmiSYGjJ,"['funk 150 bpm', 'funk carioca', 'funk rj']"
+504,Davi Lemos DJ,51115b56f8e662125526cd38e29d9246,29bI5uqkhlogSttTEotooL,
+505,Neno No Beat & Mc Rica,2c73f9b45fe1c3b26a024d850affdd77,6wPdYcqH47pTiPqsN7SImJ,['no beat']
+506,Leviano,efda217651d380eefb102729d32db966,0xEdwBYYjxw6wk179Tq2sJ,['rap cearense']
+507,Valesca Mayssa & Jefferson & Suellen,6a0882adecdcb3b15a058fc9677de4f6,4K4fsuNkaAwysF3AxRPLNh,['brazilian gospel']
+508,Kelly Key,865aa23c5425e8a99788222f3dcf6b7b,5g0Xoyr7uIlAYCkpgsFhJH,"['axe', 'funk carioca', 'funk das antigas', 'pop teen brasileiro']"
+509,Gusttavo Lima & Wesley Safadão,523d92dd83db99ea4e7cc8a5fc964843,1AL2GKpmRrKXkYIcASuRFa,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']"
+510,Melody & Paula Guilherme,22b6a7314353929efab81c727adba1a9,7ySZCEP4HFGckYYPK5rqFI,"['funk carioca', 'pop nacional', 'pop teen brasileiro']"
+511,MC Teteu & --,feaddd01c6ce88e512aa2898550c3cda,6ulkDr2Bnu7Qlbrs5iDOF1,"['funk mtg', 'rave funk']"
+512,Bibi Babydoll,af6cacef86fed6a3d9ee37e734d9e2e6,6R26kGib2ubbZJMh7kKVGV,
+513,Felipe Amorim & Mc Mika,04fe02903018f01d6c9d607604b995e7,3CIIaeZuFYrAD6PRVyuO4U,"['arrocha', 'arrochadeira', 'forro']"
+514,Mc IG & DJ WN & Mc Havi,3c9cf14ea07057212048ece2d442bc23,2q9wk5fkeU2C9CgCKdh4AN,"['funk carioca', 'funk consciente', 'funk mtg', 'funk paulista']"
+515,Mc Paiva ZS & Dj LK da Escócia,bc83688b6a339353b5215203f6c97642,0gHj4MPwwcZ8Zl9CY0hqT5,"['funk carioca', 'funk rj']"
+516,Menor MC & Gree Cassua,2cedf4eb5e0f16d3b18d77188f1256b5,6lKdA13VTL6uzE2p5JFy4v,
+517,Vitor Fernandes & Pablo,07e9e3b5d6e57b875727be70b58fb979,3TJGVUkSJzk5ZPixMFczZX,"['arrocha', 'forro']"
+518,Luan Pereira,ba40d3fd094acd25759d9e93d41f8e7f,5kVgcCdPbeUwxBqWxi2Ktl,['agronejo']
+519,MC Marks & MC Tuto,76b67fd29d33f96fad3f70668b4d51e5,6aoGgTKGqtsjj48ymcNs4Z,['funk consciente']
+520,Gusttavo Lima & Maiara & Maraisa,4e90bc58b32d19a3421c2b978994a079,7MiDcPa6UiV3In7lIM71IN,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']"
+521,MC Marcinho,fdf0123183802b311f4509271d0534e5,3ZJCmnY5iUo1M0UFFWDXGf,"['funk das antigas', 'funk melody', 'funk ostentacao']"
+522,MC Danone,b8c2e58964627f073d2e0954be591a01,5AkhuEE9FYontxsHqqmtNQ,['funk bh']
+523,Luísa Sonza & Demi Lovato,4fc0cd0b3ca4d145800e9c67a2f728f7,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+524,Dj Fb de Niteroi,bdd59a87cb9614c118d9cf322e76540c,0t4tLEUHkkktoY9vnaLW3B,
+525,Gusttavo Lima & Ana Castela,eeee1b7258256949f1ee4c20d23caf8d,2CKOmarVWvWqkNWUatHCex,"['agronejo', 'funk rj', 'sertanejo pop']"
+526,Luísa Sonza & Baco Exu do Blues,85960d508b31691ace6288dda2f04d2d,4PzYKhC14sTJNEr0dzoo0d,"['funk carioca', 'pop nacional']"
+527,Corvina Dj featuring Mc Styffler,fa5a976be1faa30aee080e486c80ba80,0ccPgj6OLaH1ZouAB6gO2T,['funk 150 bpm']
+528,DJ Bruninho PZS,5219fb4c403e4a3ab5f2fa2fef3a7dfd,5bSWLXu8tYxI5ISra9j6IF,"['deboxe', 'funk mandelao', 'funk mtg', 'funk viral']"
+529,Mc IG & DJ Murillo e LT no Beat,a9288ecf1bc899e1be017a2d31cb6645,1Zl5Ac1YyOHBkJKInGxbaS,['no beat']
+530,GREGO & ÉaBest,1fe267d334ddc8d57952472673f598f7,5sXaGoRLSpd7VeyZrLkKwt,"['indie folk', 'pop folk', 'stomp and flutter', 'stomp and holler']"
+531,TOMORROW X TOGETHER,bd4c0e67bdfd260055375ccb62702168,0ghlgldX5Dd6720Q3qFyQB,"['k-pop', 'k-pop boy group']"
+532,Manu & Simone Mendes,b9b3dda6aa0e7591b4c7362d2059094d,2eK9gcJQ6uqVvJL63dnOM3,['sertanejo']
+533,MC Kauan,44eb171b09b1094dbd8982cf950e340c,4TlVDevNpKDPEGlG805z6U,['funk ostentacao']
+534,Sorriso Maroto & Ferrugem,e658dc7583642a612626212af339d30d,1fUSLFr4WUBx7joEcGwpvG,"['funk carioca', 'pagode', 'pagode novo', 'sertanejo universitario']"
+535,Flora Matos,aba101f6647d25b95069d648bc6bd4af,5Znx4PG5UsUitigaJnmZX3,"['afrofuturismo brasileiro', 'brazilian hip hop', 'brazilian reggae', 'rap df', 'rap feminino nacional']"
+536,Sorriso Maroto & Ludmilla,c5ec92721bbe069f9823ff109844b9a3,1fUSLFr4WUBx7joEcGwpvG,"['funk carioca', 'pagode', 'pagode novo', 'sertanejo universitario']"
+537,MC Saci,69a5e17e41c6d2b72dc954b540cdbec8,0kj68SnX4WCXwveyBbRX8p,"['funk bh', 'funk mtg']"
