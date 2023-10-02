@@ -37,6 +37,10 @@ O gênero vencedor nos charts do youtube no período análisado é o arrocha, pe
 
 ![onchart](screenshots/total_weeks_on_chart_count.png)
 
+Vimos também que foi possível identificar que, apesar da predominância, o arrocha estã caindo nos charts segundo a métrica de views somados:
+
+![arrochaviews](screenshots/arrochaweeklyviews.png)
+
 Os percalços dessa análise, repito, está bem completa no [relatorio.md](relatorio.md)
 
 ### Conclusões
