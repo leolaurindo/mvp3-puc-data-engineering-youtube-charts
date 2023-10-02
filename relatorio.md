@@ -114,3 +114,36 @@ Num cenário de *Big Data*, entretanto, os grandes números poderiam ofuscar ess
 ### Análise
 
 Por fim, vendo performance dos gêneros por meio de queries no warehouse que criamos no Big query, podemos ver que é sim possível, apesar dos problemas, identificar a performance geral dos gêneros. Veja por view e quantidade de faixas as performances: 
+
+![gender_sum_view](screenshots/gender_view_sum.png)
+
+Utilizando o visualizador do Big Query:
+
+![gender_sum_view](screenshots/gender_view_sum_viz.png)
+
+O arrocha também ganha por track_count:
+
+![count](screenshots/gender_count_table.png)
+
+![count](screenshots/gender_count_view.png)
+
+Poderíamos tirar uma métrica também somando "weeks on chart" por gênero:
+
+![onchart](screenshots/total_weeks_on_chart_count.png)
+
+
+
+Vejamos o crescimento do arrocha, identificado com o maior, no charts:
+
+![arrocha](screenshots/arrochaweeklyviews.png)
+
+Curiosamente, está caindo, no período inteiro de análise. Ainda assim, se mantém em primeiro. Quem será que pode estar tomando o lugar do arrocha?
+
+Consultarei o gênero com mais views na última semana:
+
+![agronejo](screenshots/agronejo.png)
+
+
+# Conclusões
+
+Espero, com esse trabalho um tanto quanto conturbado, ter mostrado o potencial da engenharia de dados e do `wrangling` de dados, ainda que de fontes diferentes, para alcançar potenciais analíticos que antes não estariam evidentes. Ainda que com certos problemas de qualidades dos dados, é possível, pelos "grandes números", extrair conclusões. No caso aqui em questão, nem foram tão grandes números, visto que o `facts` possui cerca de 9000 linhas. Em casos maiores, a disparidade pode ser menor ainda. De qualquer forma, cada caso é um caso. Aqui estou mostrando o **potencial**, não necessariamente uma regra.
