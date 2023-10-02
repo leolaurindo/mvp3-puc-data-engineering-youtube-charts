@@ -7,6 +7,19 @@ JOIN youtube_charts.dim_genre g ON a.dim_artist_id = g.dim_artist_id
 GROUP BY g.genre_name
 ORDER BY total_views DESC;
 
+
+
+===
+
+SELECT
+  g.genre_name,
+  COUNT(DISTINCT f.dim_track_id) AS unique_tracks_on_chart
+FROM youtube_charts.fact_chart f
+JOIN youtube_charts.dim_artist a ON f.dim_artist_id = a.dim_artist_id
+JOIN youtube_charts.dim_genre g ON a.dim_artist_id = g.dim_artist_id
+GROUP BY g.genre_name
+ORDER BY unique_tracks_on_chart DESC;
+
 ===
 
 SELECT
@@ -19,12 +32,3 @@ GROUP BY g.genre_name
 ORDER BY total_weeks_on_chart DESC;
 
 ===
-
-SELECT
-  g.genre_name,
-  COUNT(DISTINCT f.dim_track_id) AS unique_tracks_on_chart
-FROM youtube_charts.fact_chart f
-JOIN youtube_charts.dim_artist a ON f.dim_artist_id = a.dim_artist_id
-JOIN youtube_charts.dim_genre g ON a.dim_artist_id = g.dim_artist_id
-GROUP BY g.genre_name
-ORDER BY unique_tracks_on_chart DESC;
