@@ -63,7 +63,7 @@ Como a api responde gênero com uma lista, fiz questão de coletar todos em um d
 
 Na tabela de artistas, utilizei um padrão da indústria fonográfica e selecionei o "artista principal", isto é, aquele que é o "dono" da música no serviço de streaming. Passei a identificar os artistas de cada faixa dessa maneira.
 
-A `dim_track`, por sua vez, possui o id de vídeo do youtube, e o id de áudio extraído do spotify. As datas de publicação tiveram o problema já explicado de limite de quota.
+A `dim_track`, por sua vez, possui o id de vídeo do youtube, e o id de áudio extraído do spotify. As datas de publicação tiveram um problema que explicarei mais a frente.
 
 A tabela `dim_track_tag` seria para extrair, repetindo as track_ids, um máximo de até cinco tag por vídeo. Como atingi limite de quota, não consegui realizar. Esse dado fortaleceria a análise pois, embora a api do youtube não retorne gênero como faz a api do spotify, nas tags muitas vezes há o gênero da música. Dessa maneira, por meio de uma wordcloud, poderíamos visualizar a predominância de um ou outro gênero.
 
@@ -73,7 +73,7 @@ Por fim, a tabela `fact_chart` contém os dados históricos dos charts semanais.
 ![bu](screenshots/bucketshow.png)
 ![bu](screenshots/files_in_trusted.png)
 
-Tive uma série de complicações nesse trabalho. O primeiro foi que a api do youtube atingiu seu máximo de requests devido a um erro de código meu, de maneira que não pude extrair datas de publicação dos vídeos:
+Tive uma série de complicações nesse trabalho. O primeiro foi que a api do youtube atingiu seu máximo de requests devido a um erro de código meu, de maneira que não pude extrair datas de publicação dos vídeos. Ainda assim, deixei no `wrangling monolith.ipynb` para ilustrar como seria:
 
 ![api max](screenshots/quota_exceed.png)
 
@@ -95,7 +95,22 @@ Porém, o schema não foi reconhecido automaticamente. Até foi, em relação ao
 
 Isso me fez levar um tempo maior, visto que a plataforma ficava *lagging*.
 
-Dessa maneira, não consegui finalizar a análise. Entretanto, gostaria de finalizá-la de qualquer forma, e o farei nos próximos minutos.
+De qualquer forma, realizei renomeações
+![renames](screenshots/renames.png)
 
-Por ora, minhas reflexões são as de que embora a mescla de dados de diferentes de apis com padrôes e parâmetros diferentes seja problemática, ela é possível e pode adicionar potencial analíticos. Por exemplo, se é possível fazer uma análise muito bem elaborada do chart do spotify por causa da api do spotify, no caso do Youtube é um pouco diferente pois a api é mais pobre. Ainda assim, se mesclarmos dados da api do spotify, fica possível engrandecer a análise.
 
+# Análise
+
+### Qualidade de dados
+
+Por ora, minhas reflexões são as de que embora a mescla de dados de diferentes de apis com padrôes e parâmetros diferentes seja problemática, ela é possível e pode adicionar potencial analíticos. Por exemplo, se é possível fazer uma análise muito bem elaborada do chart do spotify por causa da api do spotify, no caso do Youtube é um pouco diferente pois a api é mais pobre. Ainda assim, se mesclarmos dados da api do spotify, fica possível engrandecer a análise. Tudo depende do estudo de caso. No caso em questão, como o gênero do spotify é associado ao artista e é provável que um artista que publique no youtube a ponto de chegar no chart também esteja no spotify, assim como é provável que as strings deem "match", conseguimos extrair gênero pela api do spotify.
+
+Ainda assim, existem de fato problema de qualidade dos dados. Uma das análises que queria fazer, mas não pude devido à quota, era a de relacionar as datas de publicação com os gêneros nos charts; isto é, quanto mais novas as músicas nos charts, qual seu gênero? Porém existiam alguns problemas:
+- Primeiro, cada parceiro de streaming tem sua própria data de publicação, não sendo necessariamente a data de lançamento da música
+- Segundo, a api do youtube não responde data de publicação para todos. ÀS vezes, inclusive, a url fica incompleta, de maneira que não conseguimos pegar o id (no universo analisado aqui, consegui todos os ids)
+
+Num cenário de *Big Data*, entretanto, os grandes números poderiam ofuscar esse problema de qualidade dos dados.
+
+### Análise
+
+Por fim, vendo performance dos gêneros por meio de queries no warehouse que criamos no Big query, podemos ver que é sim possível, apesar dos problemas, identificar a performance geral dos gêneros. Veja por view e quantidade de faixas as performances: 
